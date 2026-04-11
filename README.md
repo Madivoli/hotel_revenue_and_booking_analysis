@@ -1,4 +1,4 @@
-## Hotel Revenue Optimization & Booking Pattern Analysis
+## HOTEL REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
 
 ![donald-teel-CFyJZMDyJJY-unsplash](https://github.com/user-attachments/assets/81947078-394e-4e5f-abe3-68d099c41a83)
 
@@ -13,28 +13,13 @@ The dataset includes 119,334 booking records from both a city hotel and a resort
 
 ---
 
-**Stakeholders and Business Questions**
+**Management Task**
+1.	**Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
+2.	**Market & Channel Efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
+3.	**Geographic & Behavioral Insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
+4.	**Operational Optimization:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
 
-**Hotel General Manager / Strategic Leadership**
 
-- What is the year-over-year growth in bookings and revenue, and how does the cancellation rate trend compare between the city hotel and the resort hotel?
-
-- Using clustering, can we identify distinct customer profiles (e.g., "last-minute business travelers," "long-stay families") to inform targeted service packages and investments?
-
-**Revenue Management & Pricing Team**
-
-- What is the average daily rate (ADR) and revenue per available room (RevPAR) by month and hotel type?
-- Which market segments and distribution channels bring in the highest-value customers (based on ADR and length of stay)?
-
-**Marketing Team**
-
-- What are the most effective market segments and channels for securing bookings that do not get canceled?
-- Which countries are the top sources of guests, and how does their booking lead time and cancellation rate vary?
-
-**Operations & Reservations Team**
-
-- How far in advance (lead time) do guests typically book, and does a longer lead time correlate with a higher chance of cancellation?
-- What is the most common room type booked, and how often do guests get upgraded/downgraded from their reserved room type?
 
 
 ---
