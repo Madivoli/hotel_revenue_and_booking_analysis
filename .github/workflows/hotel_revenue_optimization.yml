@@ -1,0 +1,38 @@
+name: Hospitality Data Pipeline
+
+# Trigger: Run this whenever you push to the main branch
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas numpy
+
+    - name: Run Cleaning Script
+# Replace 'clean_data.py' with your actual script name
+      run: python hotel_booking_analysis.py 
+
+# --- NEW TESTING STEP ---
+    - name: Validate Data Integrity
+      run: python test_data.py
+      
+    - name: Upload Cleaned Data
+      uses: actions/upload-artifact@v4
+      with:
+        name: cleaned-hospitality-data
+        path: hotel_bookings.csv
