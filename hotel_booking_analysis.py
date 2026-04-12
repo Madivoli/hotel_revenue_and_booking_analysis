@@ -13,8 +13,6 @@ hb = pd.read_csv("hotel_bookings.csv")
 print(hb.head(5))
 
 
-
-
 # 1. Checking and cleaning null values:
 
 # -- Checking missing values
@@ -86,11 +84,6 @@ hb_cleaned = hb[(hb['adr'] >= 0) & (hb['adr'] <= upper_bound)].copy()
 
 # Inspecting the top 5 highest ADRs left
 # print(hb_cleaned['adr'].sort_values(ascending=False).head())
-
-
-
-
-
 
 
 # 4. Checking and converting data types:
