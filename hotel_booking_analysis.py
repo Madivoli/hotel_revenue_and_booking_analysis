@@ -206,7 +206,7 @@ hb_cleaned['was_on_waiting_list'] = (hb_cleaned['days_in_waiting_list'] > 0)
 zero_guest_bookings = (hb_cleaned['total_guests'] == 0).sum()
 # print(f"Bookings with zero guests: {zero_guest_bookings}")
 
-if zero_guest_bookings > 0:
+           if zero_guest_bookings > 0:
     # print("Warning: There are bookings with zero guests. These may need investigation.")
 
 
@@ -214,8 +214,8 @@ if zero_guest_bookings > 0:
 # Investigating further the zero guest bookings
 
 
-    zero_guest_mask = hb_cleaned['total_guests'] == 0
-    zero_guest_bookings = hb_cleaned[zero_guest_mask]
+               zero_guest_mask = hb_cleaned['total_guests'] == 0
+               zero_guest_bookings = hb_cleaned[zero_guest_mask]
 
 # print("--- Zero Guest Bookings Analysis ---")
 # print(f"Total zero guest bookings: {len(zero_guest_bookings)}")
