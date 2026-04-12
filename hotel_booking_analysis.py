@@ -214,8 +214,8 @@ zero_guest_bookings = (hb_cleaned['total_guests'] == 0).sum()
 # Investigating further the zero guest bookings
 
 
-               zero_guest_mask = hb_cleaned['total_guests'] == 0
-               zero_guest_bookings = hb_cleaned[zero_guest_mask]
+           zero_guest_mask = hb_cleaned['total_guests'] == 0
+           zero_guest_bookings = hb_cleaned[zero_guest_mask]
 
 # print("--- Zero Guest Bookings Analysis ---")
 # print(f"Total zero guest bookings: {len(zero_guest_bookings)}")
