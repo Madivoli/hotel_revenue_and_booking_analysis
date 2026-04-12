@@ -46,7 +46,8 @@ hb['company'] = hb['company'].fillna('No Company')
 # 2. Filtering and Visualizing Outliers:
 # Filtering for City Hotel to see the ADR distribution
 
-sns.boxplot(x=hb[hb['hotel'] == 'City Hotel']['adr'])
+import seaborn as sns
+# sns.boxplot(x=hb[hb['hotel'] == 'City Hotel']['adr'])
 
 # plt.title('ADR Distribution for City Hotel')
 # plt.show()
