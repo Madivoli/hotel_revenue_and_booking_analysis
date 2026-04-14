@@ -109,7 +109,7 @@ Based on the 37.74% cancellation rate in August, **a non-refundable peak season 
 - **Group policy overhaul.** The 65% cancellation rate for groups via TAs is unsustainable. Management should **implement a "hard cut-off" policy where group room blocks are released 30 days out if not fully deposited or paid for.**
 
 
-
+---
 **Lead Time Analysis**
 
 - The data shows that the further out a guest books via a Travel Agent or a Tour Operator, the less likely they are to arrive.
@@ -125,3 +125,24 @@ Based on the 37.74% cancellation rate in August, **a non-refundable peak season 
 - Has **a shorter lead time (typically 30–45 days).**
 - Low lead time (48.72 days) and low cancellation rate (14.98%), therefore, **characterised as a high-value guest.**
 - **These guests are more intentional.** When they book directly on your site, they have already decided on your hotel. Because they book closer to their arrival date, they are much more likely to actually show up, resulting in your 15.2% cancellation rate.
+
+---
+**Length of Stay (LoS)**
+
+While Direct guests pay a higher daily rate ($104.1), **the Offline TA segment provides more "room nights" per booking (4.3 nights vs. 3 nights).** 
+
+- **The long stay advantage:** Because Offline TAs stay 4.3 nights, **they reduce the Group’s operational costs.** Thus, it is cheaper to clean and reset a room once every 4.3 days (Offline TA) than every 3 days (Direct).
+- **The reliability factor:** Offline TAs are often tied to flights or pre-paid tours. This makes them much more "sticky"— **once they book, they are highly likely to show up,** unlike the "Online TA" guests who window-shop and cancel.
+
+Interestingly, **Aviation guests have a very high total booking value ($299.02).** If these are airline crews, they represent a high-value, high-reliability segment that should be nurtured for the City Hotel.
+
+**Offline TA guests represent the "stable" side of the hotel business.** They might not be the flashiest earners per day, but **they are the ones who ensure the hotel doesn't sit empty during the shoulder seasons.**
+
+---
+**The Efficiency Quadrant**
+
+By looking at the Total Booking Value, **we move beyond just seeing who pays the most per day (ADR)** and **start seeing who contributes the most to the bottom line per check-in.**
+
+The Aviation segment is the highest-value segment in terms of revenue generated per check-in.
+
+The data shows that an **Aviation booking is actually worth $299.02**, which is **higher than an Online TA booking at $229.83**. Furthermore, the Offline TA segment provides the longest stay duration (4.3 nights), **significantly reducing room-turnover costs compared to the 3.0-night stay of Direct guests.**
