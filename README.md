@@ -28,7 +28,7 @@ The dataset includes 119,334 booking records from both a City hotel and a Resort
 
 **Monthly Trends For ADR**
 
-By analyzing average daily rate (ADR) against customer demographics and booking channels, **the analysis identified a significant August peak** and **a distinct performance gap between steady corporate-driven City revenue** and **highly seasonal Resort revenue.**
+By analyzing average daily rate (ADR) across customer demographics and booking channels, the analysis identified a significant August peak and a distinct performance gap between steady, corporate-driven City revenue and highly seasonal Resort revenue.
 
 
 **Key Findings:**
