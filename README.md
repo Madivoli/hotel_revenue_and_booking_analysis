@@ -89,3 +89,39 @@ Based on the 37.74% cancellation rate in August, **a non-refundable peak season 
 ---
 ---
 **MARKET & CHANNEL EFFICIENCY**
+
+**Efficient Combinations:**
+- **The Online Travel Agent (OTA)/Travel Agent (TA/TO) combination is the Group’s biggest volume driver**, but it is also a major source of volatility.
+	- Total Revenue: $12.30M (highest in the portfolio).
+ 	- Average ADR: $108.33.
+	- Cancellation Rate: 36.4% (critical risk).
+- This channel provides the scale needed to fill rooms, but **the high cancellation rate requires a strict overbooking** or **non-refundable deposit policy** during peak months.
+
+
+- The **Direct/Direct combination remains the most efficient part of the business.**
+	- Total Revenue: $3.26M
+	- Average ADR: $104.55
+	- Cancellation Rate: 15.2%
+- These guests are committed and high-paying. **Because they book directly, the hotel saves on commissions,** making this the most profitable segment per room night.
+
+**Management Recommendations:**
+- **Incentivize direct bookings.** Since Direct guests have a 15% cancellation rate compared to the 36% of OTAs, **a small discount or perk (like free Wi-Fi or complimentary breakfast) for direct bookings would pay for itself by reducing lost revenue.**
+- **Group policy overhaul.** The 65% cancellation rate for groups via TAs is unsustainable. Management should **implement a "hard cut-off" policy where group room blocks are released 30 days out if not fully deposited or paid for.**
+
+
+
+**Lead Time Analysis**
+
+- The data shows that the further out a guest books via a Travel Agent or a Tour Operator, the less likely they are to arrive.
+- Management should implement a 'last-minute direct special' offer/promotion targeting the 7–14 day window.
+- This captures the high-certainty guests who book late, ensuring rooms are filled that were canceled by the long-lead OTA/OTO guests.
+
+**Offline TA:**
+- Has **a longer lead time (130+ days)**.
+- High lead time (135.25 days), high cancellation rate (34.73%), therefore, **characterised as high risk**.
+- **These guests book far in advance** on sites like Booking.com because they are "shopping around" for better deals. Since they often have "free cancellation," they treat the hotel as a backup plan while they look for better deals. **This explains their 34.73% cancellation rate.**
+
+**Direct:**
+- Has **a shorter lead time (typically 30–45 days).**
+- Low lead time (48.72 days) and low cancellation rate (14.98%), therefore, **characterised as a high-value guest.**
+- **These guests are more intentional.** When they book directly on your site, they have already decided on your hotel. Because they book closer to their arrival date, they are much more likely to actually show up, resulting in your 15.2% cancellation rate.
