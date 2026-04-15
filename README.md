@@ -11,7 +11,7 @@ This data analysis helped answer such questions!
 The dataset includes 119,334 booking records from the Sarova Group of Hotels  portfolio (comprising The Sarova Stanley, a city hotel, and Sarova Whitesands, a resort hotel). It contains information such as when the booking was made, the length of stay, the number of adults, children, and babies, and the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry. 
 
 
-**NOTE:** The "Sarova Group of Hotels",  "The Sarova Stanley", and the "Sarova Whitesands" are **_fictitious names used primarily for analytical purposes._** This information/dataset **DOES NOT** accurately represent the Sarova Group of Hotels' actual performance.  
+
 
 ---
 
@@ -168,5 +168,5 @@ The data shows that an **Aviation booking is actually worth $299.02**, which is 
 
 
 
----
-_© 2026 Madivoli Analytics. Please refer to the **Legal Disclaimer** regarding data attribution and usage._
+---_
+© 2026 Madivoli Analytics. _Please refer to the **Legal Disclaimer** regarding data attribution and usage._
