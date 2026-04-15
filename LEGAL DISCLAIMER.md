@@ -1,7 +1,11 @@
 
+# Legal Disclaimer and Data Attribution
+
 **Project Title:** Hotel Revenue & Operational Efficiency Analysis
 
 **Principal Analyst:** Madivoli Analytics
+
+**Date:** April 2026
 
 **Notice of Fictitious Attribution**
 
