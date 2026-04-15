@@ -172,14 +172,17 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 - **Germany and the United Kingdom:** These are Sarova Hotels and Resorts’ safe harbors. **They have the longest lead times (138 and 128 days, respectively) but very low cancellation rates (16 - 19%).**
 
 **Management Recommendation**
-- If Portugal has a 57% cancellation rate, **we need to know if they are booking through Online TAs (which are notoriously easy to cancel) or Directly.** If they are booking via OTA, then the "problem" isn't the Portuguese people — it's the channel Sarova Hotels and Resorts is using to reach them.
+- If Portugal has a 57% cancellation rate, **we need to know if they are booking through Online TAs (which are notoriously easy to cancel) or Direct.** If they are booking via OTA, then the "problem" isn't the Portuguese people — it's the channel Sarova Hotels and Resorts is using to reach them.
 
+---
 **Cancellation Forecaster**
 - The high cancellation rate in Portugal isn't a 'geographic' problem; **it's a 'channel' problem.** The risk is concentrated at the Travel Agents and Tour Operators channels (66.79%).
 - The guests are **using TA/TOs as a low-commitment booking tool.**
 - To protect Sarova Hotels and Resorts’ revenue stream, Sarova Hotels and Resorts doesn't need to change its policy for all Portuguese guests. It only needs to **introduce a non-refundable rate for the TA/TO channels during peak seasons.**
+- Management should **shift local marketing spend away from TA/TO and toward Direct booking incentives.** Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. 
 
-
+---
+**Seasonal Demand & Forecasting analysis**
 
 
 ---
