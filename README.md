@@ -166,6 +166,20 @@ The data shows that an **Aviation booking is actually worth $299.02**, which is 
 
 **Geographic Insights**
 
+The data confirms that **Portugal acts as a high-volume/high-risk anchor**, while **Germany and the United Kingdom provide the most reliable long-term planning horizon.** Sarova Hotels and Resorts should **consider tighter deposit requirements for markets with >35% cancellation rates (Brazil, Italy, Portugal) to protect its revenue stream.**
+
+- **Portugal:** By far, is Sarova Hotels and Resorts’ biggest volume (47k bookings), but with a 57.08% cancellation rate. Even with a long lead time (116.66 days), **these guests are treating the Sarova Hotels and Resorts as a "maybe."**
+- **Germany and the United Kingdom:** These are Sarova Hotels and Resorts’ safe harbors. **They have the longest lead times (138 and 128 days, respectively) but very low cancellation rates (16 - 19%).**
+
+**Management Recommendation**
+- If Portugal has a 57% cancellation rate, **we need to know if they are booking through Online TAs (which are notoriously easy to cancel) or Directly.** If they are booking via OTA, then the "problem" isn't the Portuguese people — it's the channel Sarova Hotels and Resorts is using to reach them.
+
+**Cancellation Forecaster**
+- The high cancellation rate in Portugal isn't a 'geographic' problem; **it's a 'channel' problem.** The risk is concentrated at the Travel Agents and Tour Operators channels (66.79%).
+- The guests are **using TA/TOs as a low-commitment booking tool.**
+- To protect Sarova Hotels and Resorts’ revenue stream, Sarova Hotels and Resorts doesn't need to change its policy for all Portuguese guests. It only needs to **introduce a non-refundable rate for the TA/TO channels during peak seasons.**
+
+
 
 
 ---
