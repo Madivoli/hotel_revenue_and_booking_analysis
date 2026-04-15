@@ -8,7 +8,7 @@ As a hotel manager, have you ever wondered about your hotel's average daily rate
 
 This data analysis helped answer such questions!
 
-The dataset includes 119,334 booking records from the Sarova Group of Hotels  portfolio (comprising The Sarova Stanley, a city hotel, and Sarova Whitesands, a resort hotel). It contains information such as when the booking was made, the length of stay, the number of adults, children, and babies, and the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry. 
+The dataset includes 119,334 booking records from the Sarova Hotels and Resorts  portfolio (comprising Sarova Stanley, a city hotel, and Sarova Whitesands Beach Resort and Spa, a resort hotel). It contains information such as when the booking was made, the length of stay, the number of adults, children, and babies, and the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry.  
 
 
 
@@ -170,4 +170,4 @@ The data shows that an **Aviation booking is actually worth $299.02**, which is 
 
 ---
 
-**© 2026 Madivoli Analytics.** _Please refer to the **Legal Disclaimer** regarding data attribution and usage._
+**© 2026 Madivoli Analytics.** Please refer to the **Legal Disclaimer notice** regarding data attribution and usage.
