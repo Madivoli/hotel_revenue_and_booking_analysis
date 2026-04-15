@@ -1,15 +1,17 @@
-## HOTEL REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
+## HOTELS REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
 
 ![donald-teel-CFyJZMDyJJY-unsplash](https://github.com/user-attachments/assets/81947078-394e-4e5f-abe3-68d099c41a83)
 
 **Project Overview**
 
-As a hotel manager, have you ever wondered about your hotel's or resort's average daily rate (ADR) and revenue per available room (RevPAR)? Are you curious about which market segments and distribution channels attract the highest-value customers based on ADR and length of stay? Do you want to know which countries are the top sources of guests, and how their booking lead times and cancellation rates differ? Additionally, would you like to establish the typical lead time for guest bookings and determine if a longer lead time correlates with a higher likelihood of cancellations? 
+As a hotel manager, have you ever wondered about your hotel's average daily rate (ADR) and revenue per available room (RevPAR)? Are you curious about which market segments and distribution channels attract the highest-value customers based on ADR and length of stay? Do you want to know which countries are the top sources of guests and how their booking lead times and cancellation rates differ? Additionally, would you like to establish the typical lead time for guest bookings and determine if a longer lead time correlates with a higher likelihood of cancellations? 
 
-This data analysis helps answer such questions!
+This data analysis helped answer such questions!
 
-The dataset includes 119,334 booking records from both a City hotel and a Resort hotel. It contains various information such as when the booking was made, the length of stay, the number of adults, children, and babies, as well as the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry. Here are the key stakeholders, the business questions they may have, and the project structure and tools used for analysing the data.
+The dataset includes 119,334 booking records from the Sarova Group of Hotels  portfolio (comprising The Sarova Stanley, a city hotel, and Sarova Whitesands, a resort hotel). It contains information such as when the booking was made, the length of stay, the number of adults, children, and babies, and the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry. 
 
+
+**NOTE:** The "Sarova Group of Hotels",  "The Sarova Stanley", and the "Sarova Whitesands" are **_fictitious names used primarily for analytical purposes._** This information/dataset **DOES NOT** accurately represent the Sarova Group of Hotels' actual performance.  
 
 ---
 
@@ -27,6 +29,8 @@ The dataset includes 119,334 booking records from both a City hotel and a Resort
 <img width="1009" height="578" alt="image" src="https://github.com/user-attachments/assets/ab7639c7-8ea0-4f0d-891b-d32ee737f32d" />
 
 **Monthly Trends For ADR**
+
+This section evaluates the performance of the Sarova Group portfolio (City Hotel and Resort Hotel) to identify key revenue drivers and seasonal volatility. 
 
 By analyzing average daily rate (ADR) across customer demographics and booking channels, the analysis identified a significant August peak and a distinct performance gap between steady, corporate-driven City revenue and highly seasonal Resort revenue.
 
@@ -141,8 +145,24 @@ Interestingly, **Aviation guests have a very high total booking value ($299.02).
 ---
 **The Efficiency Quadrant**
 
-By looking at the Total Booking Value, **we move beyond just seeing who pays the most per day (ADR)** and **start seeing who contributes the most to the bottom line per check-in.**
+By looking at the total booking value (TBV), **we move beyond just seeing who pays the most per day (ADR)** and **start seeing who contributes the most to the bottom line per check-in.**
 
-The Aviation segment is the highest-value segment in terms of revenue generated per check-in.
+The **Aviation segment is the highest-value segment in terms of revenue generated per check-in.**
 
-The data shows that an **Aviation booking is actually worth $299.02**, which is **higher than an Online TA booking at $229.83**. Furthermore, the Offline TA segment provides the longest stay duration (4.3 nights), **significantly reducing room-turnover costs compared to the 3.0-night stay of Direct guests.**
+The data shows that an **Aviation booking is actually worth $299.02**, which is **higher than an Online TA booking at $229.83**. Furthermore, the Offline TA segment provides the longest stay duration (4.326 nights), **significantly reducing room-turnover costs compared to the 2.98-night stay of Direct guests.**
+
+**Implications for Management**
+- **The yield balance:** While Online TAs have a slightly higher daily rate ($108), their shorter stays and high commission costs eat into the profit. **Aviation strikes the perfect balance: a high ADR ($99.48) combined with a long stay (3.74 nights).**
+- **Operational efficiency:** Because Aviation guests stay nearly a full night longer than Direct guests, **the Sarova Group has fewer "turns" (cleaning and resetting rooms), which drops its labor costs and increases the net profit of that $299 TBV.**
+
+
+**Management Recommendations**
+- To maximize profitability, the Sarova Group should **prioritize Aviation contract negotiations over traditional Online TA marketing.**
+- A single Aviation booking is worth 30% more than an Online TA booking and carries significantly lower cancellation risk and turnover cost.
+
+---
+---
+**GEOGRAPHIC AND BEHAVIORAL INSIGHTS**
+
+**Geographic Insights**
+
