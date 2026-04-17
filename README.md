@@ -93,7 +93,24 @@ By analyzing average daily rate (ADR) across customer demographics and booking c
 
 ---
 **RevPAR vs. Growth Trend**
+The multi-year trend analysis reveals a tale of two strategies. **The Sarova Stanley acted as the portfolio's growth engine**, achieving a 258% surge in 2016 through aggressive volume scaling. Simultaneously, **Sarova Whitesands Beach Resort and Spa functioned as the 'anchor of efficiency,'** maintaining superior RevPAR even during periods of market expansion. Together, they create a balanced portfolio where volume (City) and margin (Resort) offset each other’s risks.
 
+**The 2016 "Hyper-Growth" Phase**
+- The jump from 2015 to 2016 was astronomical, but the two hotels grew very differently:
+	- **Sarova Stanley (258.54% Growth):** This is massive. **It confirms the City Hotel is the "volume King."** It successfully scaled from $1.8M to $6.6M in a single year.
+	-**Sarova Whitesands Beach Resort and Spa (71.42% Growth):** A more stable, steady climb from $2.4M to $4.1M.
+- **The Analysis:** **Sarova Stanley was likely in a “market grab phase”** — slashing prices (reflected in its lower RevPAR) to fill rooms and dominate the city center. **Sarova Whitesands Beach Resort and Spa grew more conservatively, protecting its premium brand and higher RevPAR.**
+
+**The 2017 "August Cliff" Phase** 
+- Both hotels show **a 21.4% decline in 2017:**
+	- **Sarova Stanley:** -20.93%
+	- **Sarova Whitesands Beach Resort and Spa:** -22.16%
+- **The Interrogation:** Because the decline is almost identical across both hotels, **this is a data artifact, not a business failure.** Since the dataset stops in August 2017, we are comparing **12 months of 2016** to **8 months of 2017.**
+
+**Strategic Correlation: Scale vs. Efficiency**
+- When the growth trend is looked at alongside the RevPAR figures analyzed earlier:
+	- **Sarova Stanley Strategy:** High Scale/High Risk. It grows the fastest, but at a lower RevPAR ($21.06). It is more sensitive to market shifts.
+	- S**arova Whitesands Beach Resort and Spa Strategy:** High Efficiency/Low Volatility. It grows more slowly, but maintains a superior RevPAR ($22.54).
 
 ---
 **The August "Pain Point" Insight**
