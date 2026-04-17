@@ -76,6 +76,26 @@ By analyzing average daily rate (ADR) across customer demographics and booking c
 - **Corporate Loyalty.** Focus on multi-year contracts with corporate partners to protect that "above-average" ADR floor throughout the year.
 
 ---
+---
+**RevPAR (Revenue Per Available Room)**
+
+**The Profitability Frontier: RevPAR vs. Growth**
+
+- **The Resort Hotel (The Efficiency Leader):** With the highest RevPAR in the portfolio $22.54), the Sarova Whitesands Beach Resort and Spa is the premium asset. Although its growth rate (49.16%) is lower than Sarova Stanley's, **it is more effective at extracting value from its inventory.** This suggests **a strong pricing power and a successful yield management strategy.**
+- **The City Hotel (The Growth Engine):** With a staggering 61.82% growth rate, **the Sarova Stanley is rapidly expanding its market footprint.** However, because its RevPAR is lower ($21.06), this growth is likely driven more by volume than by "premiumization." **It’s filling more rooms, but at a lower average margin than Sarova Whitesands Beach Resort and Spa.**
+
+
+**Management Recommendations**
+- **For Sarova Stanley:** The rapid 62% growth is impressive, but **there is an opportunity to bridge the $1.48 RevPAR gap.** Management should **shift focus from 'occupancy at all costs' to 'selective upselling' to bring efficiency** in line with the Sarova Whitesands Beach Resort and Spa’s benchmarks.
+- **For Sarova Whitesands Beach Resort and Spa:** The efficiency is industry-leading. The next strategic phase should **focus on 'market penetration' to accelerate growth without compromising the premium RevPAR.**
+
+
+
+---
+**RevPAR vs. Growth Trend**
+
+
+---
 **The August "Pain Point" Insight**
 
 The August data was analyzed further, and the results are eye-opening. While August is **the highest-earning month**, it is also **where the Resort Hotel is losing the most potential:**
@@ -182,9 +202,32 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 - Management should **shift local marketing spend away from TA/TO and toward Direct booking incentives.** Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. 
 
 ---
-**Seasonal Demand & Forecasting analysis**
+---
+**OPERATIONAL OPTIMIZATION**
+
+**Lead Time vs. Cancellation Probability**
+- **The Finding:** There is **a direct positive correlation between lead time and the probability of cancellation.**
+	- **Short Lead (0-7 days):** Typically has the lowest cancellation rate (often <10%). **These are "high-intent" bookings.**
+	- **Long Lead (180+ days):** Cancellation rates often spike above 50-60%. **These are "placeholders" where travelers lock in a rate but keep looking for better deals or change their plans entirely.**
 
 
+**Strategic Optimization:**
+- Sarova Hotels and Resorts should consider **a Tiered Deposit Policy.**
+	- **Policy:** Bookings made more than 90 days in advance through high-risk channels (like the Portugal TA/TO identified) should **require a 25% non-refundable deposit.**
+	- This filters out the placeholder bookings and stabilizes Sarova Hotels and Resorts’ cash flow.
+
+---
+**Room Type Mismatches**
+- Room mismatches occur when the Reserved Room Type does not match the Assigned Room Type.
+- The data shows **a 14.57% Mismatch Rate.**
+	- **The Insight:** This means that **nearly 1 out of every 7 guests is not staying in the room type they originally reserved.**
+ 	- **The Surprise:** Interestingly, **bookings with mismatches often have a lower cancellation rate.**
+	- **The interpretation:** In hospitality, this usually indicates that **the hotel is "overbooking" its standard rooms and then "upgrading" guests to suites or premium rooms for free at check-in to resolve the conflict or prevent cancellations.**
+	- **The Reason:** Most mismatches are upgrades (assigning a Category B room to a Category A reservation) because the hotel overbooked the base category. **Since this usually happens at or just before check-in, the guest is already committed.**
+	- **Impact on the bottom line:** This is **a revenue recovery opportunity.** If 14.57% of Sarova Hotels and Resorts' inventory is being upgraded for free, the hotel is losing the price difference (premium) they could have charged for those better rooms.
+	- **Recommendation:** Sarova Hotels and Resorts should **adjust the overbooking limits for "Standard" rooms.**
+- **Bottom Line:** By tightening the deposit policy for long-lead bookings and optimizing the room-category pricing, **Sarova Hotels and Resorts can stabilize cash flow and recapture lost premium revenue.**
+  
 ---
 
 **© 2026 Madivoli Analytics.** Please refer to the **Legal Disclaimer notice** regarding data attribution and usage.
