@@ -21,6 +21,46 @@ The dataset includes 119,334 booking records from the Sarova Hotels and Resorts 
 3.	**Geographic and behavioral insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
 4.	**Operational optimization:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
 
+---
+---
+**KEY PERFORMANCE METRICS**
+
+**Total Revenue**
+
+**Performance vs. Benchmark**
+- Total Revenue stands at $9.88M, w**hich is 20.96% below the strategic target of $12.5M.**
+- While $9.88M is a significant volume, **the "red" status indicates that the portfolio is currently under-leveraged.** Sarova Hotels and Resorts is missing the mark by roughly $2.6M.
+
+**Identifying the Revenue Gap**
+- **The 2017 Reporting Anomaly:** A large portion of this "underperformance" is likely due to the truncated data in 2017, which only goes up to August.
+- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR and ADR** are generally healthy, the revenue shortfall isn't a pricing problem; it's a **volume and duration**problem.
+
+
+**Strategic Recommendation**
+To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin preservation to volume capture, specifically targeting **a reduction in the 32% cancellation rate to convert 'Lost Revenue' back into realized gains.**
+
+---
+**Total Bookings**
+
+**Performance Analysis: The Volume Contrast**
+
+**Sarova Stanley: The Growth Engine**
+
+- **Actual:** **77,987** bookings vs. **45,000** target.
+- **Status: Exceeded by 73%.**
+- **Interpretation:** The Stanley is successfully operating as a high-volume hub. It has effectively shattered the baseline targets, proving that the demand for the city asset is aggressive and well-captured.
+
+**Sarova Whitesands: The Volume Gap**
+- **Actual: 37,553** bookings vs. **45,000** target.
+- **Status: 16.5% below target (underperforming).**
+- **Interpretation:** This is the primary reason Whitesand’s revenue is currently in the "red." Despite its premium pricing, the asset is not attracting enough guests to hit its strategic annual goals.
+
+
+**Strategic Implications: Efficiency vs. Scale**
+- The data shows that the **Sarova Whitesands Beach Resort and Spa has an inventory utilization problem.** It is more efficient at extracting value per guest (higher ADR/RevPAR), but it lacks the sheer scale to meet the $12.5M revenue mark. Conversely, **the Sarova Stanley is over-utilizing its capacity, which might lead to operational strain if not managed.**
+
+**Strategic Recommendation**
+- Management must **pivot Whitesand’s strategy toward 'value-volume balancing'** — leveraging its high RevPAR status to attract mid-week corporate retreats or longer-stay segments to bridge the 7,447-booking shortfall.
 
 ---
 ---
