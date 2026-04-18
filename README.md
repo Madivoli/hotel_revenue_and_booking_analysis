@@ -80,7 +80,8 @@ To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin pres
 
 
 
-<img width="997" height="564" alt="image" src="https://github.com/user-attachments/assets/c6d5a480-e86b-42ab-aa1e-01eba12fa406" />
+<img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/136fbdd3-591e-458a-baa8-7c3bb27b8955" />
+
 
 ---
 
