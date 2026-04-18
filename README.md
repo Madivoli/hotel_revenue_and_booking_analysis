@@ -43,13 +43,13 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **Identifying the Revenue Gap**
 - **The 2017 Reporting Anomaly:** A large portion of this "underperformance" is likely due to the truncated data in 2017, which only goes up to August.
-- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR and ADR** are generally healthy, the revenue shortfall isn't a pricing problem; it's a **volume and duration**problem.
+- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR and ADR** are generally healthy, the revenue shortfall isn't a pricing problem; it's a **volume and duration** problem.
 
 
 **Strategic Recommendation**
 To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin preservation to volume capture, specifically targeting **a reduction in the 32% cancellation rate to convert 'Lost Revenue' back into realized gains.**
 
-**Management Note:** 2017 performance represents an 8-month period. When annualized, both hotels were on track to match or exceed 2016 revenue levels.
+**Management Note:** 2017 performance represents an 8-month period. When annualized, both **Sarova Stanley** and **Sarova Whitesands Beach Resort and Spa** were on track to match or exceed 2016 revenue levels.
 
 ---
 **Total Bookings**
