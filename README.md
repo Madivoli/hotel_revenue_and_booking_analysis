@@ -1,16 +1,23 @@
 ## HOTELS REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
 
-![donald-teel-CFyJZMDyJJY-unsplash](https://github.com/user-attachments/assets/81947078-394e-4e5f-abe3-68d099c41a83)
-
-**Project Overview**
-
-As a hotel manager, have you ever wondered about your hotel's average daily rate (ADR) and revenue per available room (RevPAR)? Are you curious about which market segments and distribution channels attract the highest-value customers based on ADR and length of stay? Do you want to know which countries are the top sources of guests and how their booking lead times and cancellation rates differ? Additionally, would you like to establish the typical lead time for guest bookings and determine if a longer lead time correlates with a higher likelihood of cancellations? 
-
-This data analysis helped answer such questions!
-
-The dataset includes 119,334 booking records from the Sarova Hotels and Resorts  portfolio (comprising Sarova Stanley, a city hotel, and Sarova Whitesands Beach Resort and Spa, a resort hotel). It contains information such as when the booking was made, the length of stay, the number of adults, children, and babies, and the number of available parking spaces, among other details. This rich resource is valuable for various stakeholders in the hospitality industry.  
 
 
+<img width="3024" height="4032" alt="maria-larsen-sJoMzV5bDIc-unsplash" src="https://github.com/user-attachments/assets/65a5c553-9644-420f-a002-b17371463246" />
+
+
+---
+**INTRODUCTION**
+
+In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past — It is the "decision layer" for the future. This report presents a comprehensive strategic audit of the **Sarova Hotels and Resorts** portfolio, comprising the urban-centric **Sarova Stanley** (City Hotel) and the leisure-focused **Sarova Whitesands Beach Resort and Spa** (Resort Hotel).
+
+Utilizing a dataset of **119,334 booking records**, Madivoli Analytics has engineered a multi-dimensional performance dashboard to answer the critical questions facing modern hotel management:
+- **Yield Integrity:** Are our pricing strategies (**ADR**) and revenue efficiency (**RevPAR**) synchronized with our $12.5M growth benchmarks?
+- **Segment Intelligence:** Which market channels provide the highest lifetime value based on **Length of Stay** and lead-time stability?
+- **The Cancellation Paradox:** Why does a record-breaking $110-day lead time correlate with high cancellation rates, and how can we convert "ghost bookings" into guaranteed stays?
+- **Operational Optimization:** How do we leverage guest behavioral patterns to "right-size" inventory and reduce the overhead of under-utilized rooms?
+
+This analysis moves beyond descriptive statistics to provide a proactive audit of revenue leakage, market positioning, and operational health, ensuring that every booking at a Sarova asset contributes to sustainable bottom-line profitability.
+  
 
 
 ---
@@ -25,10 +32,13 @@ The dataset includes 119,334 booking records from the Sarova Hotels and Resorts 
 ---
 **KEY PERFORMANCE METRICS**
 
+<img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/b2659448-3697-4f45-95bb-f438cfa78902" />
+
+---
 **Total Revenue**
 
 **Performance vs. Benchmark**
-- Total Revenue stands at $9.88M, w**hich is 20.96% below the strategic target of $12.5M.**
+- Total Revenue stands at $9.88M, **which is 20.96% below the strategic target of $12.5M.**
 - While $9.88M is a significant volume, **the "red" status indicates that the portfolio is currently under-leveraged.** Sarova Hotels and Resorts is missing the mark by roughly $2.6M.
 
 **Identifying the Revenue Gap**
@@ -38,6 +48,8 @@ The dataset includes 119,334 booking records from the Sarova Hotels and Resorts 
 
 **Strategic Recommendation**
 To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin preservation to volume capture, specifically targeting **a reduction in the 32% cancellation rate to convert 'Lost Revenue' back into realized gains.**
+
+**Management Note:** 2017 performance represents an 8-month period. When annualized, both hotels were on track to match or exceed 2016 revenue levels.
 
 ---
 **Total Bookings**
@@ -66,7 +78,11 @@ To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin pres
 ---
 **REVENUE PERFORMANCE**
 
-<img width="1009" height="578" alt="image" src="https://github.com/user-attachments/assets/ab7639c7-8ea0-4f0d-891b-d32ee737f32d" />
+
+
+<img width="997" height="564" alt="image" src="https://github.com/user-attachments/assets/c6d5a480-e86b-42ab-aa1e-01eba12fa406" />
+
+---
 
 **Monthly Trends For ADR**
 
