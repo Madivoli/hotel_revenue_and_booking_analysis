@@ -78,6 +78,7 @@ To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin pres
 ---
 **REVENUE PERFORMANCE**
 
+<img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/23dedf91-84a2-434d-ba2a-97b7649f5938" />
 
 
 <img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/136fbdd3-591e-458a-baa8-7c3bb27b8955" />
