@@ -78,10 +78,8 @@ To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin pres
 ---
 **REVENUE PERFORMANCE**
 
-<img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/23dedf91-84a2-434d-ba2a-97b7649f5938" />
+<img width="1002" height="564" alt="image" src="https://github.com/user-attachments/assets/6462b4dd-c74d-4fda-9785-df62a95556ff" />
 
-
-<img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/136fbdd3-591e-458a-baa8-7c3bb27b8955" />
 
 
 ---
@@ -133,7 +131,6 @@ By analyzing average daily rate (ADR) across customer demographics and booking c
   
 - **Corporate Loyalty.** Focus on multi-year contracts with corporate partners to protect that "above-average" ADR floor throughout the year.
 
----
 ---
 **RevPAR (Revenue Per Available Room)**
 
@@ -188,6 +185,9 @@ Based on the 37.74% cancellation rate in August, **a non-refundable peak season 
 ---
 ---
 **MARKET & CHANNEL EFFICIENCY**
+
+
+<img width="1004" height="567" alt="image" src="https://github.com/user-attachments/assets/310b3dde-6492-4086-a83f-9b0272cdeca8" />
 
 **Efficient Combinations:**
 - **The Online Travel Agent (OTA)/Travel Agent (TA/TO) combination is the Group’s biggest volume driver**, but it is also a major source of volatility.
@@ -259,6 +259,8 @@ The data shows that an **Aviation booking is actually worth $299.02**, which is 
 ---
 **GEOGRAPHIC AND BEHAVIORAL INSIGHTS**
 
+<img width="1003" height="570" alt="image" src="https://github.com/user-attachments/assets/c6474c72-ca6e-4f13-ba41-05ffe47566c0" />
+
 **Geographic Insights**
 
 The data confirms that **Portugal acts as a high-volume/high-risk anchor**, while **Germany and the United Kingdom provide the most reliable long-term planning horizon.** Sarova Hotels and Resorts should **consider tighter deposit requirements for markets with >35% cancellation rates (Brazil, Italy, Portugal) to protect its revenue stream.**
@@ -279,6 +281,7 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 ---
 ---
 **OPERATIONAL OPTIMIZATION**
+
 
 **Lead Time vs. Cancellation Probability**
 - **The Finding:** There is **a direct positive correlation between lead time and the probability of cancellation.**
