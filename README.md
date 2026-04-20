@@ -78,7 +78,7 @@ To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin pres
 ---
 **REVENUE PERFORMANCE**
 
-<img width="1002" height="564" alt="image" src="https://github.com/user-attachments/assets/6462b4dd-c74d-4fda-9785-df62a95556ff" />
+<img width="1003" height="566" alt="image" src="https://github.com/user-attachments/assets/4118bdd9-b162-44ac-9664-bdffa3a2f497" />
 
 
 
@@ -134,6 +134,10 @@ By analyzing average daily rate (ADR) across customer demographics and booking c
 ---
 **RevPAR (Revenue Per Available Room)**
 
+<img width="1007" height="574" alt="image" src="https://github.com/user-attachments/assets/26551256-a102-4e3d-abf1-07db1fcbb3d5" />
+
+---
+
 **The Profitability Frontier: RevPAR vs. Growth**
 
 - **The Resort Hotel (The Efficiency Leader):** With the highest RevPAR in the portfolio $22.54), the Sarova Whitesands Beach Resort and Spa is the premium asset. Although its growth rate (49.16%) is lower than Sarova Stanley's, **it is more effective at extracting value from its inventory.** This suggests **a strong pricing power and a successful yield management strategy.**
@@ -187,8 +191,9 @@ Based on the 37.74% cancellation rate in August, **a non-refundable peak season 
 **MARKET & CHANNEL EFFICIENCY**
 
 
-<img width="1004" height="567" alt="image" src="https://github.com/user-attachments/assets/310b3dde-6492-4086-a83f-9b0272cdeca8" />
+<img width="1006" height="568" alt="image" src="https://github.com/user-attachments/assets/6bd683dd-46a9-4421-9c59-098ff71b94ff" />
 
+---
 **Efficient Combinations:**
 - **The Online Travel Agent (OTA)/Travel Agent (TA/TO) combination is the Group’s biggest volume driver**, but it is also a major source of volatility.
 	- Total Revenue: $12.30M (highest in the portfolio).
@@ -259,7 +264,9 @@ The data shows that an **Aviation booking is actually worth $299.02**, which is 
 ---
 **GEOGRAPHIC AND BEHAVIORAL INSIGHTS**
 
-<img width="1003" height="570" alt="image" src="https://github.com/user-attachments/assets/c6474c72-ca6e-4f13-ba41-05ffe47566c0" />
+<img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/4ae32aa3-777d-4247-8d7f-c73efc34045f" />
+
+---
 
 **Geographic Insights**
 
@@ -280,11 +287,35 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 - To protect Sarova Hotels and Resorts’ revenue stream, Sarova Hotels and Resorts doesn't need to change its policy for all Portuguese guests. It only needs to **introduce a non-refundable rate for the TA/TO channels during peak seasons.**
 - Management should **shift local marketing spend away from TA/TO and toward Direct booking incentives.** Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. 
 
+<img width="1000" height="568" alt="image" src="https://github.com/user-attachments/assets/ad6c13ca-4b96-476e-8137-f64c2780de64" />
+
+---
+
+**Business Recommendations**
+- **Deposit Restructuring:** To protect Sarova Hotels and Resorts’ revenue stream, management should implement a mandatory 25% non-refundable deposit for all TA/TO bookings during peak seasons and originating from high-volatility regions, including Portugal, Brazil, and Italy.
+- **Direct Incentive:** Management should shift local marketing spend away from TA/TO and toward Direct booking incentives. Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. The guests are using TA/TOs as a low-commitment booking tool.
+
+---
+**Geographical and Seasonal Intelligence** 
+
+
+Sarova Stanley (City Hotel).
+
+
+Resort Hotel (Whitesands) 
+
+<img width="1008" height="571" alt="image" src="https://github.com/user-attachments/assets/f2bd2c17-b7d0-4e4e-b817-d1cb745d63de" />
+
+---
+
+
 ---
 ---
 **OPERATIONAL OPTIMIZATION**
 
-<img width="1005" height="570" alt="image" src="https://github.com/user-attachments/assets/c4b22055-3136-4a71-ab17-a2b0062634b4" />
+<img width="1002" height="572" alt="image" src="https://github.com/user-attachments/assets/8717a084-d11c-4ff1-871e-33912e29781e" />
+
+---
 
 
 **Lead Time vs. Cancellation Probability**
