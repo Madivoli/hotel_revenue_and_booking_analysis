@@ -271,6 +271,8 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 **Management Recommendation**
 - If Portugal has a 57% cancellation rate, **we need to know if they are booking through Online TAs (which are notoriously easy to cancel) or Direct.** If they are booking via OTA, then the "problem" isn't the Portuguese people — it's the channel Sarova Hotels and Resorts is using to reach them.
 
+<img width="918" height="515" alt="image" src="https://github.com/user-attachments/assets/1f8a686b-53e7-4bc5-8dd5-22012cd132c2" />
+
 ---
 **Cancellation Forecaster**
 - The high cancellation rate in Portugal isn't a 'geographic' problem; **it's a 'channel' problem.** The risk is concentrated at the Travel Agents and Tour Operators channels (66.79%).
@@ -281,6 +283,8 @@ The data confirms that **Portugal acts as a high-volume/high-risk anchor**, whil
 ---
 ---
 **OPERATIONAL OPTIMIZATION**
+
+<img width="1005" height="570" alt="image" src="https://github.com/user-attachments/assets/c4b22055-3136-4a71-ab17-a2b0062634b4" />
 
 
 **Lead Time vs. Cancellation Probability**
