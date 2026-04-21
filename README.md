@@ -1,78 +1,123 @@
 ## HOTELS REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
 
 
-
-<img width="3024" height="4032" alt="maria-larsen-sJoMzV5bDIc-unsplash" src="https://github.com/user-attachments/assets/65a5c553-9644-420f-a002-b17371463246" />
-
+<img width="3456" height="2304" alt="sara-dubler-Koei_7yYtIo-unsplash" src="https://github.com/user-attachments/assets/4db7c3e1-cfc6-49c7-a182-84f8cd5f485d" />
 
 ---
+
 **INTRODUCTION**
 
-In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past — It is the "decision layer" for the future. This report presents a comprehensive strategic audit of the **Sarova Hotels and Resorts** portfolio, comprising the urban-centric **Sarova Stanley** (City Hotel) and the leisure-focused **Sarova Whitesands Beach Resort and Spa** (Resort Hotel).
+In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past; it is the decision layer for the future. This report presents a comprehensive strategic audit of the **Sarova Hotels and Resorts portfolio**, comprising the urban-centric **Sarova Stanley** (City Hotel) and the leisure-focused **Sarova Whitesands Beach Resort and Spa** (Resort Hotel).
 
-Utilizing a dataset of **119,334 booking records**, Madivoli Analytics has engineered a multi-dimensional performance dashboard to answer the critical questions facing modern hotel management:
-- **Yield Integrity:** Are our pricing strategies (**ADR**) and revenue efficiency (**RevPAR**) synchronized with our $12.5M growth benchmarks?
-- **Segment Intelligence:** Which market channels provide the highest lifetime value based on **Length of Stay** and lead-time stability?
-- **The Cancellation Paradox:** Why does a record-breaking $110-day lead time correlate with high cancellation rates, and how can we convert "ghost bookings" into guaranteed stays?
-- **Operational Optimization:** How do we leverage guest behavioral patterns to "right-size" inventory and reduce the overhead of under-utilized rooms?
+Utilising a dataset of **119,334 booking records**, a multi-dimensional performance dashboard has been established to answer the critical questions facing modern hotel management:
+- **Yield Integrity:** Are our **pricing strategies** (ADR) and **revenue efficiency** (RevPAR) synchronised with our $12.5M growth benchmarks?
+- **Segment Intelligence:** Which market channels provide the highest **lifetime value** based on **length of stay** and **lead-time** stability?
+- **The Cancellation Paradox:** Why does a record-breaking $110-day **lead time correlate with high cancellation rates**, and how can we convert "ghost bookings" into guaranteed stays?
+- **Operational Optimisation:** How do we leverage **guest behavioural patterns** to "right-size" inventory and reduce the overhead of under-utilised rooms?
 
 This analysis moves beyond descriptive statistics to provide a proactive audit of revenue leakage, market positioning, and operational health, ensuring that every booking at a Sarova asset contributes to sustainable bottom-line profitability.
-  
 
 
 ---
 
 **MANAGEMENT TASK**
-1. **Revenue performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
-2.	**Market and channel efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
-3.	**Geographic and behavioral insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
-4.	**Operational optimization:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
+1.	**Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
+2.	**Market and Channel Efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
+3.	**Geographic and Behavioural Insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
+4.	**Operational Optimisation:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
+
 
 ---
 ---
+
 **KEY PERFORMANCE METRICS**
 
-<img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/b2659448-3697-4f45-95bb-f438cfa78902" />
+<img width="1003" height="568" alt="image" src="https://github.com/user-attachments/assets/2d90af34-28d4-401d-953a-d78c86f3d961" />
 
 ---
-**Total Revenue**
+
+**1. Total Revenue**
 
 **Performance vs. Benchmark**
-- Total Revenue stands at $9.88M, **which is 20.96% below the strategic target of $12.5M.**
-- While $9.88M is a significant volume, **the "red" status indicates that the portfolio is currently under-leveraged.** Sarova Hotels and Resorts is missing the mark by roughly $2.6M.
+
+- Total revenue stands at **$9.88M**, which is  **20.96% below** the strategic target of  **$12.5M.**
+- While $9.88M is a significant volume, the "red" status indicates that **the portfolio is currently under-leveraged.** Sarova Hotels and Resorts is missing the mark by roughly **$2.6M**.
+
 
 **Identifying the Revenue Gap**
+
 - **The 2017 Reporting Anomaly:** A large portion of this "underperformance" is likely due to the truncated data in 2017, which only goes up to August.
-- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR and ADR** are generally healthy, the revenue shortfall isn't a pricing problem; it's a **volume and duration** problem.
+- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR** and **ADR** are generally healthy, the **revenue shortfall isn't a pricing problem**; it's a **volume and duration problem**.
 
 
-**Strategic Recommendation**
-To bridge the $2.6M gap, Sarova Hotels and Resorts should shift from margin preservation to volume capture, specifically targeting **a reduction in the 32% cancellation rate to convert 'Lost Revenue' back into realized gains.**
+**Strategic Recommendation:** To bridge the **$2.6M gap**, Sarova Hotels and Resorts should **shift from margin preservation** to **volume capture**, specifically targeting **a reduction in the 32% cancellation rate** to convert 'lost revenue' due to cancellations back into realized gains.
+
 
 **Management Note:** 2017 performance represents an 8-month period. When annualized, both **Sarova Stanley** and **Sarova Whitesands Beach Resort and Spa** were on track to match or exceed 2016 revenue levels.
 
 ---
-**Total Bookings**
 
-**Performance Analysis: The Volume Contrast**
+**2. Total Bookings**
 
 **Sarova Stanley: The Growth Engine**
 
 - **Actual:** **77,987** bookings vs. **45,000** target.
-- **Status: Exceeded by 73%.**
-- **Interpretation:** The Stanley is successfully operating as a high-volume hub. It has effectively shattered the baseline targets, proving that the demand for the city asset is aggressive and well-captured.
+- **Status:** Exceeded by **73%.**
+
+**Interpretation:** The Stanley is successfully operating as **a high-volume hub**. It has effectively surpassed the baseline target, proving that **the demand for the city asset is aggressive and well-captured.**
+
+
 
 **Sarova Whitesands: The Volume Gap**
+
 - **Actual: 37,553** bookings vs. **45,000** target.
 - **Status: 16.5% below target (underperforming).**
-- **Interpretation:** This is the primary reason Whitesand’s revenue is currently in the "red." Despite its premium pricing, the asset is not attracting enough guests to hit its strategic annual goals.
+
+**Interpretation:** This is the primary reason Whitesands' revenue is currently in the "red." Despite its premium pricing, **the asset is not attracting enough guests to hit its strategic annual goals.**
 
 
 **Strategic Implications: Efficiency vs. Scale**
-- The data shows that the **Sarova Whitesands Beach Resort and Spa has an inventory utilization problem.** It is more efficient at extracting value per guest (higher ADR/RevPAR), but it lacks the sheer scale to meet the $12.5M revenue mark. Conversely, **the Sarova Stanley is over-utilizing its capacity, which might lead to operational strain if not managed.**
 
-**Strategic Recommendation**
-- Management must **pivot Whitesand’s strategy toward 'value-volume balancing'** — leveraging its high RevPAR status to attract mid-week corporate retreats or longer-stay segments to bridge the 7,447-booking shortfall.
+- The data shows that the **Sarova Whitesands Beach Resort and Spa has an inventory utilization problem.** It is **more efficient at extracting value per guest** (higher ADR/RevPAR), but it lacks the sheer scale to meet the **$12.5M revenue mark**.
+- Conversely, **the Sarova Stanley is over-utilizing its capacity, which might lead to operational strain if not managed.**
+
+
+**Strategic Recommendation:** Management must **pivot Whitesands' strategy toward 'value-volume balancing'** — leveraging its high RevPAR status to attract mid-week corporate retreats or longer-stay segments to bridge the **7,447-booking shortfall**.
+
+
+---
+
+**3. Average Daily Rate (ADR)**
+
+**Sarova Stanley: The High Performer**
+
+- **Actual:** **$103.38** vs. **$110.00** target.
+- **Status:** **6%** below target (near-miss).
+
+
+- **Interpretation:** The Stanley is successfully **commanding a premium price point.** Being within 6% of a "Gold Standard" target is a **strong indicator of market leadership**. It has the pricing power to act as the portfolio’s revenue stabiliser.
+
+
+**Sarova Whitesands Resort & Spa: The Pricing Crisis**
+
+- **Actual:** **$81.92** vs. **$110.00** target.
+- **Status:** **25.5%** below target (significant underperformance).
+
+
+**Interpretation:** As previously noted, Whitesands is **heavily underpricing its inventory.** The **$21.46 price gap** between the two hotels suggests that Whitesands is being **sold as a "budget luxury" option** rather than **the premium destination it is intended to be.**
+
+
+**Strategic Recommendation:** Management must realign the Whitesands’ **marketing to emphasise exclusivity and amenities**, allowing for a phased ADR correction to bridge the gap toward the $110 benchmark without relying on the volume-heavy The Stanley to carry the portfolio's financial weight.
+
+
+**Strategic Portfolio Impact**
+
+The data indicates a "pricing cannibalisation" or a "positioning mismatch".
+
+- **The Problem:** The Stanley – typically a business-centric asset – is commanding higher rates than the leisure-centric Whitesands. In a healthy hospitality portfolio, Whitesands should typically have the higher ADR due to its destination appeal.
+
+- **The Consequence:** This pricing inversion explains why the total portfolio revenue is struggling. Sarova Hotels and Resorts is gaining volume at The Stanley but losing significant "margin per room" at the Whitesands.
+
 
 ---
 ---
