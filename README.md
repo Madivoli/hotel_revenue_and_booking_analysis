@@ -21,6 +21,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 ---
 
 **MANAGEMENT TASK**
+
 1.	**Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
 2.	**Market and Channel Efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
 3.	**Geographic and Behavioural Insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
@@ -53,7 +54,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 **Strategic Recommendation:** To bridge the **$2.6M gap**, Sarova Hotels and Resorts should **shift from margin preservation** to **volume capture**, specifically targeting **a reduction in the 32% cancellation rate** to convert 'lost revenue' due to cancellations back into realized gains.
 
 
-**Management Note:** 2017 performance represents an 8-month period. When annualized, both **Sarova Stanley** and **Sarova Whitesands Beach Resort and Spa** were on track to match or exceed 2016 revenue levels.
+**Management Note:** _2017 performance represents an 8-month period. When annualized, both **Sarova Stanley** and **Sarova Whitesands Beach Resort and Spa** were on track to match or exceed 2016 revenue levels._
 
 ---
 
@@ -71,7 +72,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 **Sarova Whitesands: The Volume Gap**
 
 - **Actual: 37,553** bookings vs. **45,000** target.
-- **Status: 16.5% below target (underperforming).**
+- **Status:** **16.5%** below target (underperforming).
 
 **Interpretation:** This is the primary reason Whitesands' revenue is currently in the "red." Despite its premium pricing, **the asset is not attracting enough guests to hit its strategic annual goals.**
 
@@ -114,9 +115,9 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 The data indicates a "pricing cannibalisation" or a "positioning mismatch".
 
-- **The Problem:** The Stanley – typically a business-centric asset – is commanding higher rates than the leisure-centric Whitesands. In a healthy hospitality portfolio, Whitesands should typically have the higher ADR due to its destination appeal.
-
-- **The Consequence:** This pricing inversion explains why the total portfolio revenue is struggling. Sarova Hotels and Resorts is gaining volume at The Stanley but losing significant "margin per room" at the Whitesands.
+- **The Problem:** The Stanley – typically a business-centric asset – **is commanding higher rates** than the leisure-centric Whitesands. In a healthy hospitality portfolio, Whitesands **should typically have the higher ADR due to its destination appeal.**
+  
+- **The Consequence:** This **pricing inversion explains why the total portfolio revenue is struggling.** Sarova Hotels and Resorts is gaining volume at The Stanley but losing significant "margin per room" at the Whitesands.
 
 
 ---
