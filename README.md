@@ -1,6 +1,6 @@
 ## HOTELS REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
 
-<img width="2000" height="1295" alt="donald-teel-CFyJZMDyJJY-unsplash" src="https://github.com/user-attachments/assets/69325da7-4469-438b-9a01-54cac422089a" />
+<img width="2000" height="295" alt="donald-teel-CFyJZMDyJJY-unsplash" src="https://github.com/user-attachments/assets/69325da7-4469-438b-9a01-54cac422089a" />
 
 
 ---
