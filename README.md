@@ -35,7 +35,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **KEY PERFORMANCE METRICS**
 
-<img width="1003" height="568" alt="image" src="https://github.com/user-attachments/assets/2d90af34-28d4-401d-953a-d78c86f3d961" />
+<img width="1004" height="568" alt="image" src="https://github.com/user-attachments/assets/b7e36b79-63d7-478c-95b9-4f3be70cc084" />
 
 ---
 
@@ -134,7 +134,8 @@ The data indicates a "pricing cannibalisation" or a "positioning mismatch".
 ---
 **REVENUE PERFORMANCE**
 
-<img width="1003" height="566" alt="image" src="https://github.com/user-attachments/assets/4118bdd9-b162-44ac-9664-bdffa3a2f497" />
+
+<img width="1006" height="566" alt="image" src="https://github.com/user-attachments/assets/13b25562-ac4c-41de-8d41-3abcf7c35525" />
 
 ---
 
@@ -183,12 +184,12 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
 <br>
 
 **For Sarova Stanley:**
-- **Dynamic weekend pricing.** Since The Stanley has high mid-week stability, management should implement "leisure city break" packages for weekends to push the ADR closer to the $115+ mark seen in Whitesands’s shoulder months.
+- **Dynamic weekend pricing.** Since The Stanley has high mid-week stability, management should **implement "leisure city break" packages for weekends** to push the ADR closer to the $115+ mark seen in Whitesands’s shoulder months.
   
-- **Corporate Loyalty.** Management should focus on multi-year contracts with corporate partners to protect that "above-average" ADR floor throughout the year.
+- **Corporate Loyalty.** Management should **focus on multi-year contracts with corporate partners** to protect that "above-average" ADR floor throughout the year.
 
 ---
-**Revenue Per Available Room (RevPAR)** START START START
+**Revenue Per Available Room (RevPAR)** 
 
 <img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/5dd00b83-9880-4aae-9d81-d2bde09eaa2b" />
 
@@ -200,7 +201,8 @@ The **RevPAR** analysis provides the most critical financial health check for Sa
 
 **The Profitability Frontier: RevPAR vs. Growth**
 
-<img width="975" height="180" alt="image" src="https://github.com/user-attachments/assets/92a98d45-ef98-4888-966e-15b98e9b6b0b" />
+<img width="1500" height="185" alt="image" src="https://github.com/user-attachments/assets/c7c1c95e-3407-4cf4-bf73-c612b5db9871" />
+
 
 - **Whitesands (The Efficiency Leader):** With the **highest RevPAR** in the portfolio (**$22.54**), Whitesands is the premium asset. Although its growth rate (**49.16%**) is lower than The Stanley's, **it is more effective at extracting value from its inventory.** This suggests **a strong pricing power** and **a successful yield management strategy.**
   
@@ -210,6 +212,7 @@ The **RevPAR** analysis provides the most critical financial health check for Sa
 <br>
 
 **Management Recommendations**
+
 - **For The Stanley:** The rapid **62% growth** is impressive, but **there is an opportunity to bridge the $1.48 RevPAR gap.** Management should **shift focus from 'occupancy at all costs'** to **'selective upselling'** to bring efficiency in line with Whitesands' benchmarks.
   
 - **For Whitesands:** The efficiency is industry-leading. The next strategic phase should **focus on 'market penetration' to accelerate growth without compromising the premium RevPAR.**
@@ -224,6 +227,7 @@ The multi-year trend analysis reveals **a tale of two strategies.** The Stanley 
 <br>
 
 **The 2016 "Hyper-Growth" Phase**
+
 The jump from 2015 to 2016 was astronomical, but the two hotels grew very differently:
 - **The Stanley (258.54% Growth):** This is massive. It confirms that The Stanley is **the "volume King."** It successfully **scaled from $1.8M to $6.6M** in a single year.
 - **Whitesands (71.42% Growth):** A more stable, **steady climb from $2.4M to $4.1M.**
@@ -233,6 +237,7 @@ The jump from 2015 to 2016 was astronomical, but the two hotels grew very differ
 <br>
 
 **The 2017 "August Cliff" Phase** 
+
 Both hotels show **a 21.4% decline in 2017:**
 - **The Stanley:** -20.93%
 - **Whitesands:** -22.16%
@@ -242,6 +247,7 @@ Both hotels show **a 21.4% decline in 2017:**
 <br>
 
 **Strategic Correlation: Scale vs. Efficiency**
+
 When the growth trend is looked at alongside the RevPAR figures analyzed earlier:
 - **The Stanley Strategy:** High Scale/High Risk. **It grows the fastest**, but at **a lower RevPAR ($21.06)**. It is more sensitive to market shifts.
 - **Whitesands Strategy:** High Efficiency/Low Volatility. **It grows more slowly**, but **maintains a superior RevPAR ($22.54).**
@@ -281,14 +287,17 @@ This channel **provides the scale needed to fill rooms**, but **the high cancell
 <br>
 
 The **Direct/Direct combination remains the most efficient part of the business.**
+
 - **Total Revenue:** $3.26M
 - **Average ADR:** $104.55
 - **Cancellation Rate:** 15.2%
+  
 These **guests are committed and high-paying.** Because they book directly, **the hotel saves on commissions,** making this **the most profitable segment per room night.**
 
 <br>
 
 **Management Recommendations:**
+
 - **Incentivize Direct bookings.** Since Direct guests have **a 15% cancellation rate** compared to the **36% of OTAs**, **a small discount or perk** (like free Wi-Fi or complimentary breakfast) for Direct bookings **would pay for itself by reducing lost revenue.**
 - **Group policy overhaul.** The **65% cancellation rate** for Groups via TAs is **unsustainable**. Management should **implement a "hard cut-off" policy** where group room blocks are released **30 days out** if not **fully deposited or paid for.**
 
@@ -317,8 +326,10 @@ The data shows that **the further out a guest books** via a Travel Agent or a To
 ---
 **Length of Stay (LoS)**
 
-<img width="975" height="120" alt="image" src="https://github.com/user-attachments/assets/ade910c1-fa8e-42e1-8936-070d7b3a00ad" />
 
+<img width="1500" height="237" alt="image" src="https://github.com/user-attachments/assets/5626dff4-914e-44ee-849d-8fe19e595673" />
+
+<br>
 
 While Direct guests pay a higher daily rate (**$104.1**), the Offline TA segment provides more "room nights" per booking (**4.3 nights** vs. **3 nights**). 
 
@@ -333,7 +344,10 @@ Offline TA guests represent **the "stable" side of the hotel business.** They mi
 ---
 **The Efficiency Quadrant**
 
-<img width="975" height="300" alt="image" src="https://github.com/user-attachments/assets/d9fdb253-9728-4bdd-a22f-78480e9791c0" />
+
+<img width="1500" height="267" alt="image" src="https://github.com/user-attachments/assets/34b4a376-f7fc-4dc6-8dc6-8ce5baa88b42" />
+
+<br>
 
 By looking at the total booking value (TBV), **the analysis moves beyond just seeing who pays the most per day (ADR)** and **starts seeing who contributes the most to the bottom line per check-in.** The Aviation segment is **the highest-value segment in terms of revenue generated per check-in.**
 
@@ -342,63 +356,104 @@ The data shows that an Aviation booking is actually **worth $299.02**, which is 
 <br>
 
 **Implications for Management**
+
 - **The yield balance:** While Online TAs have a slightly higher daily rate (**$108**), their shorter stays and high commission costs eat into the profit. Aviation strikes the perfect balance: a high ADR (**$99.48**) combined with a long stay (**3.74 nights**).
+  
 - **Operational efficiency:** Because Aviation guests stay nearly a full night longer than Direct guests, Sarova Hotels and Resorts  has fewer "turns" (cleaning and resetting rooms), which drops its labor costs and increases the net profit of that **$299 TBV.**
 
 <br>
 
 **Management Recommendations**
+
 - To maximize profitability, Sarova Hotels and Resorts should **prioritize Aviation contract negotiations over traditional Online TA marketing.**
+  
 - A single Aviation booking is worth **30% more** than an Online TA booking and carries significantly **lower cancellation risk and turnover cost.**
 
 ---
 ---
-**GEOGRAPHIC AND BEHAVIORAL INSIGHTS** ************************
+**GEOGRAPHIC AND BEHAVIORAL INSIGHTS** 
 
-<img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/4ae32aa3-777d-4247-8d7f-c73efc34045f" />
+<img width="1004" height="567" alt="image" src="https://github.com/user-attachments/assets/7711d041-4f19-4d0b-9ec1-f019767b0942" />
 
 ---
+
+Geographic reliability is where the analysis moves from "what happened" to "who is doing it". This is critical because a guest from Portugal might behave very differently from one from Brazil, even if they both book through an Online TA.
+
+<br>
 
 **Geographic Insights**
 
-The data confirms that **Portugal acts as a high-volume/high-risk anchor**, while **Germany and the United Kingdom provide the most reliable long-term planning horizon.** Sarova Hotels and Resorts should **consider tighter deposit requirements for markets with >35% cancellation rates (Brazil, Italy, Portugal) to protect its revenue stream.**
+The data confirms that Portugal acts as **a high-volume/high-risk anchor**, while Germany and the United Kingdom **provide the most reliable long-term planning horizon.** Sarova Hotels and Resorts should **consider tighter deposit requirements for markets with >35% cancellation rates** (Brazil, Italy, Portugal) **to protect its revenue stream.**
 
-- **Portugal:** By far, is Sarova Hotels and Resorts’ biggest volume (47k bookings), but with a 57.08% cancellation rate. Even with a long lead time (116.66 days), **these guests are treating the Sarova Hotels and Resorts as a "maybe."**
-- **Germany and the United Kingdom:** These are Sarova Hotels and Resorts’ safe harbors. **They have the longest lead times (138 and 128 days, respectively) but very low cancellation rates (16 - 19%).**
+- **Portugal:** By far, it is Sarova Hotels and Resorts’ biggest volume (**47k bookings**), but with **a 57.08% cancellation rate.** Even with a long lead time (**116.66 days**), **these guests are treating the Sarova Hotels and Resorts as a "maybe".**
+  
+- **Germany and the United Kingdom:** These are Sarova Hotels and Resorts’ **safe harbors.** They have the longest lead times (**138 and 128 days,** respectively) but very low cancellation rates (**16 - 19%**). When a German or British guest plans a trip, **they follow through.**
+
+<br>
 
 **Management Recommendation**
-- If Portugal has a 57% cancellation rate, **we need to know if they are booking through Online TAs (which are notoriously easy to cancel) or Direct.** If they are booking via OTA, then the "problem" isn't the Portuguese people — it's the channel Sarova Hotels and Resorts is using to reach them.
 
-<img width="918" height="515" alt="image" src="https://github.com/user-attachments/assets/1f8a686b-53e7-4bc5-8dd5-22012cd132c2" />
+If Portugal has **a 57% cancellation rate**, Sarova Hotels and Resorts  needs to know if they are booking through **Online TAs** (which are notoriously easy to cancel) or **Direct.** If they are booking via OTA, then the "problem" isn't the Portuguese people — **it's the channel Sarova Hotels and Resorts is using to reach them.**
+
+  
 
 ---
 **Cancellation Forecaster**
-- The high cancellation rate in Portugal isn't a 'geographic' problem; **it's a 'channel' problem.** The risk is concentrated at the Travel Agents and Tour Operators channels (66.79%).
-- The guests are **using TA/TOs as a low-commitment booking tool.**
-- To protect Sarova Hotels and Resorts’ revenue stream, Sarova Hotels and Resorts doesn't need to change its policy for all Portuguese guests. It only needs to **introduce a non-refundable rate for the TA/TO channels during peak seasons.**
-- Management should **shift local marketing spend away from TA/TO and toward Direct booking incentives.** Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. 
+
 
 <img width="1000" height="568" alt="image" src="https://github.com/user-attachments/assets/ad6c13ca-4b96-476e-8137-f64c2780de64" />
 
 ---
 
+The high cancellation rate in Portugal isn't a 'geographic' problem; **it's a 'channel' problem.** The **risk is concentrated at the TA/TO channels (66.79%)**. The guests are **using TA/TOs as a low-commitment booking tool.**To protect Sarova Hotels and Resorts’ revenue stream, management **doesn't need to change its policy for all Portuguese guests.** It only needs to **introduce a non-refundable rate for the TA/TO channels during peak seasons.** In addition, management should **shift local marketing spend away from TA/TO and toward Direct booking incentives.** Even if Sarova Hotels and Resorts offer **a 10% discount for Direct bookings,** it is cheaper than losing **66% of the booking** room inventory to "phantom" TA bookings. 
+
+<br>
+
 **Business Recommendations**
+
 - **Deposit Restructuring:** To protect Sarova Hotels and Resorts’ revenue stream, management should implement a mandatory 25% non-refundable deposit for all TA/TO bookings during peak seasons and originating from high-volatility regions, including Portugal, Brazil, and Italy.
 - **Direct Incentive:** Management should shift local marketing spend away from TA/TO and toward Direct booking incentives. Even if Sarova Hotels and Resorts offer a 10% discount for Direct bookings, it is cheaper than losing 66% of the booking room inventory to "phantom" TA bookings. The guests are using TA/TOs as a low-commitment booking tool.
 
 ---
+
 **Geographical and Seasonal Intelligence** 
 
+**Sarova Whitesands Beach Resort and Spa**
 
-Sarova Stanley (City Hotel).
-
-
-Resort Hotel (Whitesands) 
-
-<img width="1008" height="571" alt="image" src="https://github.com/user-attachments/assets/f2bd2c17-b7d0-4e4e-b817-d1cb745d63de" />
+<img width="1006" height="573" alt="image" src="https://github.com/user-attachments/assets/13c6e728-b400-496e-85fe-33b9c2d78ae2" />
 
 ---
 
+The data reveals that Whitesands has **"high-value pockets"** that significantly outperform its disappointing **$81.92 average ADR**, providing a clear roadmap for premium recovery.
+
+<br>
+
+**Performance Analysis: The GCC and Southeast Asia Surge**
+
+**The United Arab Emirates (UAE) Influence:**
+
+- **ADR Peak: $207.00** (July, Online Travel Agent) and **$180.00** (July, Direct).
+  
+**Interpretation:** The UAE market is Whitesands’ most profitable segment. These guests are paying nearly **2.5x the current average.** This proves that Whitesands can be a $200+ asset if marketing is focused on the Gulf Cooperation Council (GCC) region.
+
+<br>
+
+**The Vietnam and Saudi Arabia Drivers:**
+
+- **Vietnam:** Driving ADRs between **$159 and $183.75** in July.
+- **Saudi Arabia:** Reaching **$171** in June.
+  
+**Interpretation:** There is a clear "high-summer" (June–July) demand from international markets that value Whitesands enough to pay premium rates. The low overall ADR is likely caused by deep discounting to local markets during the off-season, which "waters down" the success of these international peaks.
+
+<br>
+
+**Strategic Recommendation** 
+
+**Geographic Yield Tiering**
+
+There is a major pricing discrepancy at **Whitesands.** While the **average ADR is $81.92,** travelers from the **UAE, Saudi Arabia, and Vietnam** are currently yielding premiums between **$159$ and $207** during the June–July window.
+
+**Action:** The analysis recommends a **geographically targeted pricing** model. Instead of global discounts, management should protect the June–July inventory for high-yield international markets. By **shifting marketing budget toward digital campaigns** in the GCC and Southeast Asia during these months, Whitesands can capitalize on its established premium status in these regions and significantly lift the portfolio’s weighted ADR **toward the $110 target.**
 
 ---
 ---
@@ -410,27 +465,39 @@ Resort Hotel (Whitesands)
 
 
 **Lead Time vs. Cancellation Probability**
-- **The Finding:** There is **a direct positive correlation between lead time and the probability of cancellation.**
-	- **Short Lead (0-7 days):** Typically has the lowest cancellation rate (often <10%). **These are "high-intent" bookings.**
-	- **Long Lead (180+ days):** Cancellation rates often spike above 50-60%. **These are "placeholders" where travelers lock in a rate but keep looking for better deals or change their plans entirely.**
 
+**The Finding:** There is **a direct positive correlation between lead time and the probability of cancellation.**
+
+- **Short Lead (0-7 days):** Typically has the **lowest cancellation rate** (**often <10%**). These are **"high-intent" bookings.**
+- **Long Lead (180+ days):** Cancellation rates often **spike above 50-60%.** These are **"placeholders"** where travelers lock in a rate but keep looking for better deals or change their plans entirely.
+
+<br>
 
 **Strategic Optimization:**
-- Sarova Hotels and Resorts should consider **a Tiered Deposit Policy.**
-	- **Policy:** Bookings made more than 90 days in advance through high-risk channels (like the Portugal TA/TO identified) should **require a 25% non-refundable deposit.**
-	- This filters out the placeholder bookings and stabilizes Sarova Hotels and Resorts’ cash flow.
+
+Sarova Hotels and Resorts should consider **a Tiered Deposit Policy.**
+  
+- **Policy:** Bookings made more than 90 days in advance through high-risk channels (like the Portugal TA/TO identified) should **require a 25% non-refundable deposit.**
+- This **filters out the placeholder bookings** and **stabilizes Sarova Hotels and Resorts’ cash flow.**
 
 ---
+
 **Room Type Mismatches**
-- Room mismatches occur when the Reserved Room Type does not match the Assigned Room Type.
-- The data shows **a 14.57% Mismatch Rate.**
-	- **The Insight:** This means that **nearly 1 out of every 7 guests is not staying in the room type they originally reserved.**
- 	- **The Surprise:** Interestingly, **bookings with mismatches often have a lower cancellation rate.**
-	- **The interpretation:** In hospitality, this usually indicates that **the hotel is "overbooking" its standard rooms and then "upgrading" guests to suites or premium rooms for free at check-in to resolve the conflict or prevent cancellations.**
-	- **The Reason:** Most mismatches are upgrades (assigning a Category B room to a Category A reservation) because the hotel overbooked the base category. **Since this usually happens at or just before check-in, the guest is already committed.**
-	- **Impact on the bottom line:** This is **a revenue recovery opportunity.** If 14.57% of Sarova Hotels and Resorts' inventory is being upgraded for free, the hotel is losing the price difference (premium) they could have charged for those better rooms.
-	- **Recommendation:** Sarova Hotels and Resorts should **adjust the overbooking limits for "Standard" rooms.**
-- **Bottom Line:** By tightening the deposit policy for long-lead bookings and optimizing the room-category pricing, **Sarova Hotels and Resorts can stabilize cash flow and recapture lost premium revenue.**
+
+Room mismatches occur when the reserved room type does not match the assigned room type. The data shows **a 14.57% Mismatch Rate.**
+
+- **The Insight:** This means that **nearly 1 out of every 7 guests is not staying in the room type they originally reserved.**
+- **The Surprise:** Interestingly, **bookings with mismatches often have a lower cancellation rate.**
+
+**The interpretation:** In hospitality, this usually indicates that **the hotel is "overbooking" its standard rooms and then "upgrading" guests to suites or premium rooms for free at check-in to resolve the conflict or prevent cancellations.**
+	
+**The Reason:** Most mismatches are upgrades (assigning a Category B room to a Category A reservation) because the hotel overbooked the base category. **Since this usually happens at or just before check-in, the guest is already committed.**
+
+**Impact on the bottom line:** This is **a revenue recovery opportunity.** If 14.57% of Sarova Hotels and Resorts' inventory is being upgraded for free, the hotel is losing the price difference (premium) they could have charged for those better rooms.
+
+**Recommendation:** Sarova Hotels and Resorts should **adjust the overbooking limits for "Standard" rooms.**
+
+**Bottom Line:** By tightening the deposit policy for long-lead bookings and optimizing the room-category pricing, **Sarova Hotels and Resorts can stabilize cash flow and recapture lost premium revenue.**
   
 ---
 
