@@ -55,7 +55,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 <br>
 
-**Strategic Recommendation:** To bridge the **$2.6M gap**, Sarova Hotels and Resorts should **shift from margin preservation** to **volume capture**, specifically targeting **a reduction in the 32% cancellation rate** to convert 'lost revenue' due to cancellations back into realized gains.
+**Strategic Recommendation:** To bridge the **$2.6M gap**, Sarova Hotels and Resorts should **shift from margin preservation** to **volume capture**, specifically targeting **a reduction in the 27% cancellation rate** to convert 'lost revenue' due to cancellations back into realized gains.
 
 <br>
 
