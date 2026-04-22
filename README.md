@@ -72,7 +72,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **Interpretation:** The Stanley is successfully operating as **a high-volume hub**. It has effectively surpassed the baseline target, proving that **the demand for the city asset is aggressive and well-captured.**
 
-&nbsp;
+<br>
 
 **Sarova Whitesands: The Volume Gap**
 
@@ -81,14 +81,14 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **Interpretation:** This is the primary reason Whitesands' revenue is currently in the "red." Despite its premium pricing, **the asset is not attracting enough guests to hit its strategic annual goals.**
 
-&nbsp;
+<br>
 
 **Strategic Implications: Efficiency vs. Scale**
 
 - The data shows that the **Sarova Whitesands Beach Resort and Spa has an inventory utilization problem.** It is **more efficient at extracting value per guest** (higher ADR/RevPAR), but it lacks the sheer scale to meet the **$12.5M revenue mark**.
 - Conversely, **the Sarova Stanley is over-utilizing its capacity, which might lead to operational strain if not managed.**
 
-&nbsp;
+<br>
 
 **Strategic Recommendation:** Management must **pivot Whitesands' strategy toward 'value-volume balancing'** — leveraging its high RevPAR status to attract mid-week corporate retreats or longer-stay segments to bridge the **7,447-booking shortfall**.
 
@@ -105,7 +105,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **Interpretation:** The Stanley is successfully **commanding a premium price point.** Being within 6% of a "Gold Standard" target is a **strong indicator of market leadership**. It has the pricing power to act as the portfolio’s revenue stabiliser.
 
-&nbsp;
+<br>
 
 **Sarova Whitesands Resort & Spa: The Pricing Crisis**
 
@@ -115,11 +115,11 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **Interpretation:** As previously noted, Whitesands is **heavily underpricing its inventory.** The **$21.46 price gap** between the two hotels suggests that Whitesands is being **sold as a "budget luxury" option** rather than **the premium destination it is intended to be.**
 
-&nbsp;
+<br>
 
 **Strategic Recommendation:** Management must realign the Whitesands’ **marketing to emphasise exclusivity and amenities**, allowing for a phased ADR correction to bridge the gap toward the $110 benchmark without relying on the volume-heavy The Stanley to carry the portfolio's financial weight.
 
-&nbsp;
+<br>
 
 **Strategic Portfolio Impact**
 
@@ -136,15 +136,13 @@ The data indicates a "pricing cannibalisation" or a "positioning mismatch".
 
 <img width="1003" height="566" alt="image" src="https://github.com/user-attachments/assets/4118bdd9-b162-44ac-9664-bdffa3a2f497" />
 
-
-
 ---
 
 **Monthly Trends For Average Daily Rate (ADR)**
 
 This section evaluates the performance of the **Sarova Hotels and Resorts** portfolio **to identify key revenue drivers** and **seasonal volatility.** By analyzing **ADR** against customer demographics and booking channels, the analysis identified a significant **"August peak"** and **a distinct performance gap between steady corporate-driven The Stanley revenue and highly seasonal Whitesands revenue.**
 
-&nbsp;
+<br>
 
 **Key Findings:**
 
@@ -152,18 +150,18 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
 - **The August peak:** Whitesands’s ADR reaches a high of **$150.86 in August**, driven by a surge in demand during the European summer holiday window.
 - **The Shoulder Slump:** A sharp decline follows in September **($95.01)**, hitting a low in November **($48.68).**
 
-&nbsp;
+<br>
 
 **2. High-Value Segments (The August Spike).** A deep dive into the August performance revealed that three specific factors drive the revenue spike:
 - **Market segment:** Direct and Online TA bookings are the primary drivers, paying significantly higher rates (**$95.23** and **$93.71**, respectively) compared to negotiated Group or Corporate rates.
 - **Customer type:** Transient guests (individual, non-contracted) paid the highest ADR at **$85.56**, indicating low price sensitivity for peak-season dates.
 - **Geography:** The highest spending originates from the Iberian market - specifically Spain at **$170.60 and Portugal at **$156.68.**
 
-&nbsp;
+<br>
 
 **3. Channel Profitability.** Direct distribution is the most profitable channel, yielding an ADR of **$168.40.** This outperforms third-party TA/TO channels by **$11.17 per room/night,** before even accounting for the **15-25% commission savings.**
 
-&nbsp;
+<br>
 
 **Implications for Management:**
 
@@ -173,7 +171,7 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
   
 - **The city advantage.** The Stanleys’ business-centric model provides the cash flow necessary to subsidize the Whitesands’ high fixed costs during the winter months (September – February).
 
-&nbsp;
+<br>
 
 **Business Recommendations:**
 
@@ -182,7 +180,7 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
   
 - **Low-season MICE Pivot.** Management should offer aggressive "residential meeting" packages from September to November to fill the family-shaped gap with corporate retreats.
 
-&nbsp;
+<br>
 
 **For Sarova Stanley:**
 - **Dynamic weekend pricing.** Since The Stanley has high mid-week stability, management should implement "leisure city break" packages for weekends to push the ADR closer to the $115+ mark seen in Whitesands’s shoulder months.
@@ -190,25 +188,30 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
 - **Corporate Loyalty.** Management should focus on multi-year contracts with corporate partners to protect that "above-average" ADR floor throughout the year.
 
 ---
-**Revenue Per Available Room (RevPAR)**
+**Revenue Per Available Room (RevPAR)** START START START
 
-<img width="1007" height="574" alt="image" src="https://github.com/user-attachments/assets/26551256-a102-4e3d-abf1-07db1fcbb3d5" />
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/5dd00b83-9880-4aae-9d81-d2bde09eaa2b" />
+
 
 ---
-The **RevPAR** analysis provides the most critical financial health check for Sarova Hotels and Resorts. It is the gold standard of hospitality metrics because it balances both **pricing** (ADR) and **volume** (Occupancy). Interestingly, this is the only KPI where both The Stanley and Whitesands are showing "green", providing a fascinating counter-narrative to the earlier "red" findings.
+The **RevPAR** analysis provides the most critical financial health check for Sarova Hotels and Resorts. It is the gold standard of hospitality metrics because it balances both **pricing (ADR)** and **volume (occupancy).** Interestingly, this is the only KPI where both The Stanley and Whitesands are showing "green", providing a fascinating counter-narrative to the earlier "red" findings.
 
-&nbsp;
+<br>
 
 **The Profitability Frontier: RevPAR vs. Growth**
+
+<img width="975" height="180" alt="image" src="https://github.com/user-attachments/assets/92a98d45-ef98-4888-966e-15b98e9b6b0b" />
+
 - **Whitesands (The Efficiency Leader):** With the **highest RevPAR** in the portfolio (**$22.54**), Whitesands is the premium asset. Although its growth rate (**49.16%**) is lower than The Stanley's, **it is more effective at extracting value from its inventory.** This suggests **a strong pricing power** and **a successful yield management strategy.**
+  
 - **The Stanley (The Growth Engine):** With a **staggering 61.82% growth rate**, The Stanley is rapidly **expanding its market footprint.** However, because its RevPAR is lower (**$21.06**), this growth is likely **driven more by volume than by "premiumization".** It’s filling more rooms, but **at a lower average margin than Whitesands.**
 
 
-
-&nbsp;
+<br>
 
 **Management Recommendations**
 - **For The Stanley:** The rapid **62% growth** is impressive, but **there is an opportunity to bridge the $1.48 RevPAR gap.** Management should **shift focus from 'occupancy at all costs'** to **'selective upselling'** to bring efficiency in line with Whitesands' benchmarks.
+  
 - **For Whitesands:** The efficiency is industry-leading. The next strategic phase should **focus on 'market penetration' to accelerate growth without compromising the premium RevPAR.**
 
 
@@ -218,30 +221,30 @@ The **RevPAR** analysis provides the most critical financial health check for Sa
 
 The multi-year trend analysis reveals **a tale of two strategies.** The Stanley **acted as the portfolio's growth engine**, achieving a **258% surge in 2016** through **aggressive volume scaling.** Simultaneously, Whitesands **functioned as the 'anchor of efficiency',** maintaining superior RevPAR even during periods of market expansion. Together, **they create a balanced portfolio where volume** (The Stanley) and margin (Whitesands) offset each other’s risks.
 
-
-&nbsp;
-
+<br>
 
 **The 2016 "Hyper-Growth" Phase**
-- The jump from 2015 to 2016 was astronomical, but the two hotels grew very differently:
-	- **The Stanley (258.54% Growth):** This is massive. It confirms that The Stanley is **the "volume King."** It successfully **scaled from $1.8M to $6.6M** in a single year.
-	- **Whitesands (71.42% Growth):** A more stable, **steady climb from $2.4M to $4.1M.**
-- **The Analysis:** The Stanley was likely in **a “market grab phase”** — slashing prices (reflected in its lower RevPAR) to fill rooms and dominate the city center. Whitesands grew more conservatively, **protecting its premium brand** and **higher RevPAR.**
+The jump from 2015 to 2016 was astronomical, but the two hotels grew very differently:
+- **The Stanley (258.54% Growth):** This is massive. It confirms that The Stanley is **the "volume King."** It successfully **scaled from $1.8M to $6.6M** in a single year.
+- **Whitesands (71.42% Growth):** A more stable, **steady climb from $2.4M to $4.1M.**
 
-&nbsp;
+**The Analysis:** The Stanley was likely in **a “market grab phase”** — slashing prices (reflected in its lower RevPAR) to fill rooms and dominate the city center. Whitesands grew more conservatively, **protecting its premium brand** and **higher RevPAR.**
+
+<br>
 
 **The 2017 "August Cliff" Phase** 
-- Both hotels show **a 21.4% decline in 2017:**
-	- **The Stanley:** -20.93%
-	- **Whitesands:** -22.16%
-- **The Interrogation:** Because the decline is almost identical across both hotels, **this is a data artifact, not a business failure.** Since the dataset stops in August 2017, we are comparing **12 months of 2016** to **8 months of 2017.**
+Both hotels show **a 21.4% decline in 2017:**
+- **The Stanley:** -20.93%
+- **Whitesands:** -22.16%
 
-&nbsp;
+**The Interrogation:** Because the decline is almost identical across both hotels, **this is a data artifact, not a business failure.** Since the dataset stops in August 2017, we are comparing **12 months of 2016** to **8 months of 2017.**
+
+<br>
 
 **Strategic Correlation: Scale vs. Efficiency**
-- When the growth trend is looked at alongside the RevPAR figures analyzed earlier:
-	- **The Stanley Strategy:** High Scale/High Risk. **It grows the fastest**, but at **a lower RevPAR ($21.06)**. It is more sensitive to market shifts.
-	- **Whitesands Strategy:** High Efficiency/Low Volatility. **It grows more slowly**, but **maintains a superior RevPAR ($22.54).**
+When the growth trend is looked at alongside the RevPAR figures analyzed earlier:
+- **The Stanley Strategy:** High Scale/High Risk. **It grows the fastest**, but at **a lower RevPAR ($21.06)**. It is more sensitive to market shifts.
+- **Whitesands Strategy:** High Efficiency/Low Volatility. **It grows more slowly**, but **maintains a superior RevPAR ($22.54).**
 
 ---
 **The August "Pain Point" Insight**
@@ -253,7 +256,7 @@ The August data was analyzed further, and the results are eye-opening. While Aug
 
 Generally, Sarova Hotels and Resorts **lost over $2.1 million in revenue** in August alone **due to cancellations.** That is nearly **60% of what was actually earned.** Because August has the highest ADR (**$124.93**), **every cancellation in August hurts Sarova Hotels and Resorts significantly more than a cancellation in January.**
 
-&nbsp;
+<br>
 
 **Business Recommendations:**
 
@@ -261,82 +264,96 @@ Based on the **37.74% cancellation rate** in August, **a non-refundable peak sea
 
 ---
 ---
-**MARKET & CHANNEL EFFICIENCY****************
+**MARKET AND CHANNEL EFFICIENCY**
 
-
-<img width="1006" height="568" alt="image" src="https://github.com/user-attachments/assets/6bd683dd-46a9-4421-9c59-098ff71b94ff" />
+<img width="1002" height="565" alt="image" src="https://github.com/user-attachments/assets/187e3107-c36c-443d-b4a2-f545de61dea1" />
 
 ---
-**Efficient Combinations:**
-- **The Online Travel Agent (OTA)/Travel Agent (TA/TO) combination is the Group’s biggest volume driver**, but it is also a major source of volatility.
-	- Total Revenue: $12.30M (highest in the portfolio).
- 	- Average ADR: $108.33.
-	- Cancellation Rate: 36.4% (critical risk).
-- This channel provides the scale needed to fill rooms, but **the high cancellation rate requires a strict overbooking** or **non-refundable deposit policy** during peak months.
+**Efficient Segment-Channel Combinations**
 
-&nbsp;
+**The Online Travel Agent (OTA)/Travel Agent (TA/TO) combination is the Group’s biggest volume driver**, but it is also a major source of volatility.
+- **Total Revenue:** $12.30M (highest in the portfolio).
+- **Average ADR:** $108.33.
+- **Cancellation Rate:** 36.4% (critical risk).
 
-- The **Direct/Direct combination remains the most efficient part of the business.**
-	- Total Revenue: $3.26M
-	- Average ADR: $104.55
-	- Cancellation Rate: 15.2%
-- These guests are committed and high-paying. **Because they book directly, the hotel saves on commissions,** making this the most profitable segment per room night.
+This channel **provides the scale needed to fill rooms**, but **the high cancellation rate requires a strict overbooking policy or a non-refundable deposit policy** during peak months.
+
+<br>
+
+The **Direct/Direct combination remains the most efficient part of the business.**
+- **Total Revenue:** $3.26M
+- **Average ADR:** $104.55
+- **Cancellation Rate:** 15.2%
+These **guests are committed and high-paying.** Because they book directly, **the hotel saves on commissions,** making this **the most profitable segment per room night.**
+
+<br>
 
 **Management Recommendations:**
-- **Incentivize direct bookings.** Since Direct guests have a 15% cancellation rate compared to the 36% of OTAs, **a small discount or perk (like free Wi-Fi or complimentary breakfast) for direct bookings would pay for itself by reducing lost revenue.**
-- **Group policy overhaul.** The 65% cancellation rate for groups via TAs is unsustainable. Management should **implement a "hard cut-off" policy where group room blocks are released 30 days out if not fully deposited or paid for.**
+- **Incentivize Direct bookings.** Since Direct guests have **a 15% cancellation rate** compared to the **36% of OTAs**, **a small discount or perk** (like free Wi-Fi or complimentary breakfast) for Direct bookings **would pay for itself by reducing lost revenue.**
+- **Group policy overhaul.** The **65% cancellation rate** for Groups via TAs is **unsustainable**. Management should **implement a "hard cut-off" policy** where group room blocks are released **30 days out** if not **fully deposited or paid for.**
 
 
 ---
 **Lead Time Analysis**
 
-- The data shows that the further out a guest books via a Travel Agent or a Tour Operator, the less likely they are to arrive.
-- Management should implement a 'last-minute direct special' offer/promotion targeting the 7–14 day window.
-- This captures the high-certainty guests who book late, ensuring rooms are filled that were canceled by the long-lead OTA/OTO guests.
+The data shows that **the further out a guest books** via a Travel Agent or a Tour Operator, **the less likely they are to arrive.** Management should **implement a 'last-minute direct special' offer/promotion** targeting the **7–14 day window.** This captures the high-certainty guests who book late, **ensuring rooms are filled** that were canceled by the long-lead OTA/OTO guests.
+
+<br>
 
 **Offline TA:**
-- Has **a longer lead time (130+ days)**.
-- High lead time (135.25 days), high cancellation rate (34.73%), therefore, **characterised as high risk**.
-- **These guests book far in advance** on sites like Booking.com because they are "shopping around" for better deals. Since they often have "free cancellation," they treat the hotel as a backup plan while they look for better deals. **This explains their 34.73% cancellation rate.**
+- Has a longer lead time (**130+ days**).
+- High lead time (**135.25 days**), high cancellation rate (**34.73%**), therefore, **characterised as high risk**.
+
+**These guests book far in advance** on sites like Booking.com because they are **"shopping around" for better deals.** Since they often have "free cancellation," **they treat the hotel as a backup plan while they look for better deals.** This explains their **34.73% cancellation rate.**
+
+<br>
 
 **Direct:**
-- Has **a shorter lead time (typically 30–45 days).**
-- Low lead time (48.72 days) and low cancellation rate (14.98%), therefore, **characterised as a high-value guest.**
-- **These guests are more intentional.** When they book directly on your site, they have already decided on your hotel. Because they book closer to their arrival date, they are much more likely to actually show up, resulting in your 15.2% cancellation rate.
+- Has a shorter lead time (typically **30–45 days**).
+- Low lead time (**48.72 days**) and low cancellation rate (**14.98%**), therefore, **characterised as a high-value guest.**
+
+**These guests are more intentional.** When they book directly on a site, they have already decided on the hotel. Because **they book closer to their arrival date**, they are much **more likely to actually show up**, resulting in a **15.2% cancellation rate.**
 
 ---
 **Length of Stay (LoS)**
 
-While Direct guests pay a higher daily rate ($104.1), **the Offline TA segment provides more "room nights" per booking (4.3 nights vs. 3 nights).** 
+<img width="975" height="120" alt="image" src="https://github.com/user-attachments/assets/ade910c1-fa8e-42e1-8936-070d7b3a00ad" />
 
-- **The long stay advantage:** Because Offline TAs stay 4.3 nights, **they reduce the Group’s operational costs.** Thus, it is cheaper to clean and reset a room once every 4.3 days (Offline TA) than every 3 days (Direct).
-- **The reliability factor:** Offline TAs are often tied to flights or pre-paid tours. This makes them much more "sticky"— **once they book, they are highly likely to show up,** unlike the "Online TA" guests who window-shop and cancel.
 
-Interestingly, **Aviation guests have a very high total booking value ($299.02).** If these are airline crews, they represent a high-value, high-reliability segment that should be nurtured for the City Hotel.
+While Direct guests pay a higher daily rate (**$104.1**), the Offline TA segment provides more "room nights" per booking (**4.3 nights** vs. **3 nights**). 
 
-**Offline TA guests represent the "stable" side of the hotel business.** They might not be the flashiest earners per day, but **they are the ones who ensure the hotel doesn't sit empty during the shoulder seasons.**
+- **The long-stay advantage:** Because Offline TAs **stay 4.3 nights**, they reduce Sarova Hotels and Resorts' **operational costs.** Thus, **it is cheaper to clean and reset a room once every 4.3 days** (Offline TA) **than every 3 days** (Direct).
+  
+- **The reliability factor:** Offline TAs are often **tied to flights or pre-paid tours.** This makes them much more "sticky"— **once they book, they are highly likely to show up,** unlike the Online TA guests who **window-shop and cancel.**
+
+Interestingly, Aviation guests have **a very high total booking value ($299.02).** If these are airline crews, they represent **a high-value, high-reliability segment** that should be nurtured for The Stanley.
+
+Offline TA guests represent **the "stable" side of the hotel business.** They might not be the flashiest earners per day, but **they are the ones who ensure the hotel doesn't sit empty during the shoulder seasons.**
 
 ---
 **The Efficiency Quadrant**
 
-By looking at the total booking value (TBV), **we move beyond just seeing who pays the most per day (ADR)** and **start seeing who contributes the most to the bottom line per check-in.**
+<img width="975" height="300" alt="image" src="https://github.com/user-attachments/assets/d9fdb253-9728-4bdd-a22f-78480e9791c0" />
 
-The **Aviation segment is the highest-value segment in terms of revenue generated per check-in.**
+By looking at the total booking value (TBV), **the analysis moves beyond just seeing who pays the most per day (ADR)** and **starts seeing who contributes the most to the bottom line per check-in.** The Aviation segment is **the highest-value segment in terms of revenue generated per check-in.**
 
-The data shows that an **Aviation booking is actually worth $299.02**, which is **higher than an Online TA booking at $229.83**. Furthermore, the Offline TA segment provides the longest stay duration (4.326 nights), **significantly reducing room-turnover costs compared to the 2.98-night stay of Direct guests.**
+The data shows that an Aviation booking is actually **worth $299.02**, which is higher than an Online TA booking at **$229.83**. Furthermore, the Offline TA segment provides the longest stay duration (**4.326 nights**), significantly reducing **room-turnover costs** compared to the **2.98-night stay** of Direct guests.
+
+<br>
 
 **Implications for Management**
-- **The yield balance:** While Online TAs have a slightly higher daily rate ($108), their shorter stays and high commission costs eat into the profit. **Aviation strikes the perfect balance: a high ADR ($99.48) combined with a long stay (3.74 nights).**
-- **Operational efficiency:** Because Aviation guests stay nearly a full night longer than Direct guests, **the Sarova Group has fewer "turns" (cleaning and resetting rooms), which drops its labor costs and increases the net profit of that $299 TBV.**
+- **The yield balance:** While Online TAs have a slightly higher daily rate (**$108**), their shorter stays and high commission costs eat into the profit. Aviation strikes the perfect balance: a high ADR (**$99.48**) combined with a long stay (**3.74 nights**).
+- **Operational efficiency:** Because Aviation guests stay nearly a full night longer than Direct guests, Sarova Hotels and Resorts  has fewer "turns" (cleaning and resetting rooms), which drops its labor costs and increases the net profit of that **$299 TBV.**
 
+<br>
 
 **Management Recommendations**
-- To maximize profitability, the Sarova Group should **prioritize Aviation contract negotiations over traditional Online TA marketing.**
-- A single Aviation booking is worth 30% more than an Online TA booking and carries significantly lower cancellation risk and turnover cost.
+- To maximize profitability, Sarova Hotels and Resorts should **prioritize Aviation contract negotiations over traditional Online TA marketing.**
+- A single Aviation booking is worth **30% more** than an Online TA booking and carries significantly **lower cancellation risk and turnover cost.**
 
 ---
 ---
-**GEOGRAPHIC AND BEHAVIORAL INSIGHTS**
+**GEOGRAPHIC AND BEHAVIORAL INSIGHTS** ************************
 
 <img width="1000" height="565" alt="image" src="https://github.com/user-attachments/assets/4ae32aa3-777d-4247-8d7f-c73efc34045f" />
 
