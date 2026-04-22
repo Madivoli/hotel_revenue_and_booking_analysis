@@ -35,7 +35,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 **KEY PERFORMANCE METRICS**
 
-<img width="1004" height="568" alt="image" src="https://github.com/user-attachments/assets/b7e36b79-63d7-478c-95b9-4f3be70cc084" />
+<img width="993" height="563" alt="image" src="https://github.com/user-attachments/assets/946a4c92-2f76-46ff-a590-1842de3b3b68" />
 
 ---
 
