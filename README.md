@@ -37,7 +37,7 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 𝗧𝗵𝗲 "𝗖𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗚𝗮𝗽" 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
 
-The Sarova Hotels and Resorts portfolio is currently navigating a significant performance paradox. While brand demand is exceptionally high — evidenced by 𝗮 𝗺𝗮𝗿𝗸𝗲𝘁-𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗼𝗳 𝟭𝟬𝟱 𝗱𝗮𝘆𝘀 — 𝘁𝗵𝗶𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗯𝗲𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹𝗶𝘀𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲. The portfolio currently faces 𝗮 $𝟮.𝟲𝗠 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝘁𝗵𝗲 𝗮𝗻𝗻𝘂𝗮𝗹 𝘁𝗮𝗿𝗴𝗲𝘁 𝗼𝗳 $𝟭𝟭.𝟯𝟲𝗠, primarily driven by 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 "𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗴𝗮𝗽" and 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀..
+The Sarova Hotels and Resorts portfolio is currently navigating a significant performance paradox. While brand demand is exceptionally high — evidenced by 𝗮 𝗺𝗮𝗿𝗸𝗲𝘁-𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗼𝗳 𝟭𝟬𝟱 𝗱𝗮𝘆𝘀 — 𝘁𝗵𝗶𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗯𝗲𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹𝗶𝘀𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲. The portfolio currently faces a $1.48M revenue shortfall against the annual target of $11.36M, primarily driven by 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 "𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗴𝗮𝗽" and 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀..
 
 <br>
 
