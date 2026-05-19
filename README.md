@@ -1,4 +1,4 @@
-## HOTELS REVENUE OPTIMIZATION AND BOOKING PATTERN ANALYSIS
+𝗛𝗢𝗧𝗘𝗟 𝗥𝗘𝗩𝗘𝗡𝗨𝗘 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡 𝗔𝗡𝗗 𝗕𝗢𝗢𝗞𝗜𝗡𝗚 𝗣𝗔𝗧𝗧𝗘𝗥𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 
 
 <img width="3456" height="2304" alt="sara-dubler-Koei_7yYtIo-unsplash" src="https://github.com/user-attachments/assets/c133d6e1-8a78-4720-a9bb-68cf1158d062" />
@@ -9,22 +9,23 @@
 
 **INTRODUCTION**
 
-In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past; it is the decision layer for the future. This report presents a comprehensive strategic audit of the **Sarova Hotels and Resorts portfolio**, comprising the urban-centric **Sarova Stanley** (City Hotel) and the leisure-focused **Sarova Whitesands Beach Resort and Spa** (Resort Hotel).
+In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past; it is the decision layer for the future. This analysis presents a comprehensive strategic audit of the 𝗦𝗮𝗿𝗼𝘃𝗮 𝗛𝗼𝘁𝗲𝗹𝘀 𝗮𝗻𝗱 𝗥𝗲𝘀𝗼𝗿𝘁𝘀 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼, comprising the urban-centric 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 (a City Hotel) and the leisure-focused 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 (a Resort Hotel).
 
-Utilising a dataset of **119,334 booking records**, a multi-dimensional performance dashboard has been established to answer the critical questions facing modern hotel management:
-- **Yield Integrity:** Are our **pricing strategies** (ADR) and **revenue efficiency** (RevPAR) synchronised with our $12.5M growth benchmarks?
-- **Segment Intelligence:** Which market channels provide the highest **lifetime value** based on **length of stay** and **lead-time** stability?
-- **The Cancellation Paradox:** Why does a record-breaking $110-day **lead time correlate with high cancellation rates**, and how can we convert "ghost bookings" into guaranteed stays?
-- **Operational Optimisation:** How do we leverage **guest behavioural patterns** to "right-size" inventory and reduce the overhead of under-utilised rooms?
+Utilising a dataset of 𝟭𝟭𝟵,𝟯𝟯𝟰 𝗯𝗼𝗼𝗸𝗶𝗻𝗴 𝗿𝗲𝗰𝗼𝗿𝗱𝘀, a multi-dimensional performance dashboard and reports have been established to answer the critical questions facing modern hotel management:
+- 𝗬𝗶𝗲𝗹𝗱 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆: Are our 𝗽𝗿𝗶𝗰𝗶𝗻𝗴 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 (𝗔𝗗𝗥) and 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 (𝗥𝗲𝘃𝗣𝗔𝗥) synchronised with 𝗼𝘂𝗿 $𝟭𝟮.𝟱𝗠 𝗴𝗿𝗼𝘄𝘁𝗵 𝗯𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸𝘀?
+- 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲: Which market channels provide the highest 𝗹𝗶𝗳𝗲𝘁𝗶𝗺𝗲 𝘃𝗮𝗹𝘂𝗲 𝗯𝗮𝘀𝗲𝗱 𝗼𝗻 𝗹𝗲𝗻𝗴𝘁𝗵 𝗼𝗳 𝘀𝘁𝗮𝘆 𝗮𝗻𝗱 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆?
+- 𝗧𝗵𝗲 𝗖𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗣𝗮𝗿𝗮𝗱𝗼𝘅: Why does a record-breaking $𝟭𝟭𝟬-𝗱𝗮𝘆 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗰𝗼𝗿𝗿𝗲𝗹𝗮𝘁𝗲𝘀 𝘄𝗶𝘁𝗵 𝗵𝗶𝗴𝗵 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲𝘀, and how can we 𝗰𝗼𝗻𝘃𝗲𝗿𝘁 "𝗴𝗵𝗼𝘀𝘁 𝗯𝗼𝗼𝗸𝗶𝗻𝗴𝘀" 𝗶𝗻𝘁𝗼 𝗴𝘂𝗮𝗿𝗮𝗻𝘁𝗲𝗲𝗱 𝘀𝘁𝗮𝘆𝘀?
+- 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝘁𝗶𝗺𝗶𝘀𝗮𝘁𝗶𝗼𝗻: How do we 𝗹𝗲𝘃𝗲𝗿𝗮𝗴𝗲 𝗴𝘂𝗲𝘀𝘁 𝗯𝗲𝗵𝗮𝘃𝗶𝗼𝘂𝗿𝗮𝗹 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 to "𝗿𝗶𝗴𝗵𝘁-𝘀𝗶𝘇𝗲" 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 and 𝗿𝗲𝗱𝘂𝗰𝗲 𝘁𝗵𝗲 𝗼𝘃𝗲𝗿𝗵𝗲𝗮𝗱 𝗼𝗳 𝘂𝗻𝗱𝗲𝗿-𝘂𝘁𝗶𝗹𝗶𝘀𝗲𝗱 𝗿𝗼𝗼𝗺𝘀?
 
 This analysis moves beyond descriptive statistics to provide a proactive audit of revenue leakage, market positioning, and operational health, ensuring that every booking at a Sarova asset contributes to sustainable bottom-line profitability.
 
 
----
+<br>
 
-**MANAGEMENT TASK**
 
-1.	**Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
+𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗧𝗔𝗦𝗞
+
+1.	Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
 2.	**Market and Channel Efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
 3.	**Geographic and Behavioural Insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
 4.	**Operational Optimisation:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
@@ -32,10 +33,46 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 ---
 ---
+𝗘𝗫𝗘𝗖𝗨𝗧𝗜𝗩𝗘 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗
 
-**KEY PERFORMANCE METRICS**
+𝗧𝗵𝗲 "𝗖𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗚𝗮𝗽" 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
 
-<img width="993" height="563" alt="image" src="https://github.com/user-attachments/assets/946a4c92-2f76-46ff-a590-1842de3b3b68" />
+The Sarova Hotels and Resorts portfolio is currently navigating a significant performance paradox. While brand demand is exceptionally high — evidenced by 𝗮 𝗺𝗮𝗿𝗸𝗲𝘁-𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗼𝗳 𝟭𝟬𝟱 𝗱𝗮𝘆𝘀 — 𝘁𝗵𝗶𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗯𝗲𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹𝗶𝘀𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲. The portfolio currently faces 𝗮 $𝟮.𝟲𝗠 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝘁𝗵𝗲 𝗮𝗻𝗻𝘂𝗮𝗹 𝘁𝗮𝗿𝗴𝗲𝘁 𝗼𝗳 $𝟭𝟭.𝟯𝟲𝗠, primarily driven by 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 "𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗴𝗮𝗽" and 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀..
+
+<br>
+
+
+<img width="998" height="563" alt="image" src="https://github.com/user-attachments/assets/3c6b2f9f-e52e-489a-85e7-4c7f279c3f6a" />
+
+
+<br>
+
+
+<br>
+
+𝗞𝗲𝘆 𝗔𝘂𝗱𝗶𝘁 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀:
+
+- 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗟𝗲𝗮𝗸𝗮𝗴𝗲: A portfolio-wide 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟯𝟲.𝟵𝟴% (peaking at 41.79% for Sarova Stanley) and a 𝟭𝟰.𝟱𝟳% 𝗿𝗼𝗼𝗺 𝗺𝗶𝘀𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲 are 𝘁𝗵𝗲 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝗱𝗿𝗶𝘃𝗲𝗿𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝗲𝗳𝗶𝗰𝗶𝘁.
+- 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗨𝗻𝗱𝗲𝗿-𝘂𝘁𝗶𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻: Despite high booking volumes, actual occupancy rates remain stagnant at 𝟮𝟬.𝟯𝟳% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆) and 𝟭𝟴.𝟯𝟰% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮), signalling 𝗵𝗶𝗴𝗵 𝗳𝗶𝘅𝗲𝗱-𝗰𝗼𝘀𝘁 𝗲𝘅𝗽𝗼𝘀𝘂𝗿𝗲.
+- 𝗣𝗿𝗶𝗰𝗶𝗻𝗴 𝗜𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻: Sarova Whitesands Beach Resort and Spa Hotel is currently undervalued, with an ADR of $81.92, trailing its strategic target by over 25%.
+
+<br>
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗼𝗮𝗱𝗺𝗮𝗽:
+
+To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝘃𝗼𝗹𝘂𝗺𝗲-𝗰𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗼 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴. By 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗻𝗴 𝘁𝗵𝗲𝘀𝗲 "𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 during the booking process and implementing 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗲𝗮𝗿𝗹𝘆-𝗯𝗶𝗿𝗱 𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝗲𝘀, the portfolio can protect its 𝟭𝟬𝟬-𝗱𝗮𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗵𝗼𝗿𝗶𝘇𝗼𝗻 and 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 $𝟰.𝟱𝟵𝗠 𝗶𝗻 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹𝗹𝘆 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝘂𝗲 𝘁𝗼 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
+
+---
+---
+
+𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦
+
+<br>
+
+<img width="986" height="545" alt="image" src="https://github.com/user-attachments/assets/78f8a27d-bbb8-431d-a2c7-2431a5f2af66" />
+
+<br>
+
 
 ---
 
