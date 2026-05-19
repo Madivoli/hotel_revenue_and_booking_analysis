@@ -25,10 +25,10 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗧𝗔𝗦𝗞
 
-1.	Revenue Performance:** What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
-2.	**Market and Channel Efficiency:** Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
-3.	**Geographic and Behavioural Insights:** How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
-4.	**Operational Optimisation:** Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
+1.	𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: What are the monthly trends for ADR and RevPAR across both hotel types, and how do these metrics correlate with overall revenue growth?
+2.	𝗠𝗮𝗿𝗸𝗲𝘁 𝗮𝗻𝗱 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Which combinations of market segments and distribution channels yield the highest-value guests with the lowest cancellation risk?
+3.	𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗮𝗻𝗱 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝘂𝗿𝗮𝗹 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: How do lead times and cancellation rates vary across the top 10 source countries, and what does this reveal about guest reliability?
+4.	𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝘁𝗶𝗺𝗶𝘀𝗮𝘁𝗶𝗼𝗻: Does a longer booking lead time significantly increase the probability of cancellation, and how often do room type mismatches (upgrades/downgrades) occur?
 
 
 ---
@@ -48,19 +48,17 @@ The Sarova Hotels and Resorts portfolio is currently navigating a significant pe
 <br>
 
 
-<br>
-
 𝗞𝗲𝘆 𝗔𝘂𝗱𝗶𝘁 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀:
 
 - 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗟𝗲𝗮𝗸𝗮𝗴𝗲: A portfolio-wide 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟯𝟲.𝟵𝟴% (peaking at 41.79% for Sarova Stanley) and a 𝟭𝟰.𝟱𝟳% 𝗿𝗼𝗼𝗺 𝗺𝗶𝘀𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲 are 𝘁𝗵𝗲 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝗱𝗿𝗶𝘃𝗲𝗿𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝗲𝗳𝗶𝗰𝗶𝘁.
 - 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗨𝗻𝗱𝗲𝗿-𝘂𝘁𝗶𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻: Despite high booking volumes, actual occupancy rates remain stagnant at 𝟮𝟬.𝟯𝟳% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆) and 𝟭𝟴.𝟯𝟰% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮), signalling 𝗵𝗶𝗴𝗵 𝗳𝗶𝘅𝗲𝗱-𝗰𝗼𝘀𝘁 𝗲𝘅𝗽𝗼𝘀𝘂𝗿𝗲.
-- 𝗣𝗿𝗶𝗰𝗶𝗻𝗴 𝗜𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻: Sarova Whitesands Beach Resort and Spa Hotel is currently undervalued, with an ADR of $81.92, trailing its strategic target by over 25%.
+- 𝗣𝗿𝗶𝗰𝗶𝗻𝗴 𝗜𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻: Sarova Whitesands Beach Resort and Spa Hotel is currently undervalued, 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗔𝗗𝗥 𝗼𝗳 $𝟴𝟭.𝟵𝟮, trailing its strategic target by 𝗼𝘃𝗲𝗿 𝟭𝟯%.
 
 <br>
 
 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗼𝗮𝗱𝗺𝗮𝗽:
 
-To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝘃𝗼𝗹𝘂𝗺𝗲-𝗰𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗼 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴. By 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗻𝗴 𝘁𝗵𝗲𝘀𝗲 "𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 during the booking process and implementing 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗲𝗮𝗿𝗹𝘆-𝗯𝗶𝗿𝗱 𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝗲𝘀, the portfolio can protect its 𝟭𝟬𝟬-𝗱𝗮𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗵𝗼𝗿𝗶𝘇𝗼𝗻 and 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 $𝟰.𝟱𝟵𝗠 𝗶𝗻 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹𝗹𝘆 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝘂𝗲 𝘁𝗼 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
+To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝘃𝗼𝗹𝘂𝗺𝗲-𝗰𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗼 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴. By 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗻𝗴 "𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 during the booking process and implementing a 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗲𝗮𝗿𝗹𝘆-𝗯𝗶𝗿𝗱 𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝗲𝘀, the portfolio can protect its 𝟭𝟬𝟬-𝗱𝗮𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗵𝗼𝗿𝗶𝘇𝗼𝗻 and 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 $𝟯.𝟵𝗠 𝗶𝗻 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹𝗹𝘆 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝘂𝗲 𝘁𝗼 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
 
 ---
 ---
@@ -76,35 +74,36 @@ To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 �
 
 ---
 
-**1. Total Revenue**
+1️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗥𝗲𝘃𝗲𝗻𝘂𝗲
 
-**Performance vs. Benchmark**
+🟩 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘃𝘀. 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸
 
-- Total revenue stands at **$9.88M**, which is  **20.96% below** the strategic target of  **$12.5M.**
-- While $9.88M is a significant volume, the "red" status indicates that **the portfolio is currently under-leveraged.** Sarova Hotels and Resorts is missing the mark by roughly **$2.6M**.
-
-<br>
-
-**Identifying the Revenue Gap**
-
-- **The 2017 Reporting Anomaly:** A large portion of this "underperformance" is likely due to the truncated data in 2017, which only goes up to August.
-- **Volume vs. Value:** Since Sarova Hotels and Resorts’ **RevPAR** and **ADR** are generally healthy, the **revenue shortfall isn't a pricing problem**; it's a **volume and duration problem**.
+- Total revenue stands at $𝟵.𝟴𝟴𝗠, which is 𝟭𝟯.𝟬𝟰% 𝗯𝗲𝗹𝗼𝘄 the strategic target of  $11.36M.
+- While $9.88M is a significant volume, the "red" status indicates that the portfolio is currently under-leveraged. Sarova Hotels and Resorts is missing the mark by roughly $1.48M.
 
 <br>
 
-**Strategic Recommendation:** To bridge the **$2.6M gap**, Sarova Hotels and Resorts should **shift from margin preservation** to **volume capture**, specifically targeting **a reduction in the 27% cancellation rate** to convert 'lost revenue' due to cancellations back into realized gains.
+
+🟩 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝘁𝗵𝗲 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗚𝗮𝗽
+
+- 𝗧𝗵𝗲 𝟮𝟬𝟭𝟳 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗔𝗻𝗼𝗺𝗮𝗹𝘆: A large portion of this "underperformance" is likely 𝗱𝘂𝗲 𝘁𝗼 𝘁𝗵𝗲 𝘁𝗿𝘂𝗻𝗰𝗮𝘁𝗲𝗱 𝗱𝗮𝘁𝗮 𝗶𝗻 𝟮𝟬𝟭𝟳, 𝘄𝗵𝗶𝗰𝗵 𝗼𝗻𝗹𝘆 𝗴𝗼𝗲𝘀 𝘂𝗽 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁.
+- 𝗩𝗼𝗹𝘂𝗺𝗲 𝘃𝘀. 𝗩𝗮𝗹𝘂𝗲: Since Sarova Hotels and Resorts’ 𝗥𝗲𝘃𝗣𝗔𝗥 and 𝗔𝗗𝗥 are generally healthy, the 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗶𝘀𝗻'𝘁 𝗮 𝗽𝗿𝗶𝗰𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺; 𝗶𝘁'𝘀 𝗮 𝗱𝘂𝗿𝗮𝘁𝗶𝗼𝗻, 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗽𝗿𝗼𝗯𝗹𝗲𝗺.
 
 <br>
 
-**Management Note:** _2017 performance represents an 8-month period. When annualized, both **Sarova Stanley** and **Sarova Whitesands Beach Resort and Spa** were on track to match or exceed 2016 revenue levels._
+🟩 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟮.𝟵𝟲% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+
+<br>
+
+𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗡𝗼𝘁𝗲: 2017 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘴 𝘢𝘯 8-𝘮𝘰𝘯𝘵𝘩 𝘱𝘦𝘳𝘪𝘰𝘥. 𝘞𝘩𝘦𝘯 𝘢𝘯𝘯𝘶𝘢𝘭𝘪𝘻𝘦𝘥, 𝘣𝘰𝘵𝘩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝘢𝘯𝘥 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 𝘸𝘦𝘳𝘦 𝘰𝘯 𝘵𝘳𝘢𝘤𝘬 𝘵𝘰 𝘮𝘢𝘵𝘤𝘩 𝘰𝘳 𝘦𝘹𝘤𝘦𝘦𝘥 2016 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘭𝘦𝘷𝘦𝘭𝘴.
 
 ---
 
-**2. Total Bookings**
+2️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴𝘀 xxxxxxxxxxxxxx
 
-**Sarova Stanley: The Growth Engine**
+🟩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆: 𝗧𝗵𝗲 𝗚𝗿𝗼𝘄𝘁𝗵 𝗘𝗻𝗴𝗶𝗻𝗲
 
-- **Actual:** **77,987** bookings vs. **45,000** target.
+- 𝗔𝗰𝘁𝘂𝗮𝗹: 77,987 bookings vs. **45,000** target.
 - **Status:** Exceeded by **73%.**
 
 **Interpretation:** The Stanley is successfully operating as **a high-volume hub**. It has effectively surpassed the baseline target, proving that **the demand for the city asset is aggressive and well-captured.**
@@ -169,14 +168,19 @@ The data indicates a "pricing cannibalisation" or a "positioning mismatch".
 
 ---
 ---
-**REVENUE PERFORMANCE**
+𝗥𝗘𝗩𝗘𝗡𝗨𝗘 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘
 
+This section evaluates the performance of the Sarova Hotels and Resorts portfolio to 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗸𝗲𝘆 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝗿𝗶𝘃𝗲𝗿𝘀 𝗮𝗻𝗱 𝘀𝗲𝗮𝘀𝗼𝗻𝗮𝗹 𝘃𝗼𝗹𝗮𝘁𝗶𝗹𝗶𝘁𝘆. 
 
-<img width="1006" height="566" alt="image" src="https://github.com/user-attachments/assets/13b25562-ac4c-41de-8d41-3abcf7c35525" />
+<br>
+
+<img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/a080a587-22cc-47f8-bd9d-552a0fd4c533" />
+
+<br>
 
 ---
 
-**Monthly Trends For Average Daily Rate (ADR)**
+𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗧𝗿𝗲𝗻𝗱𝘀 𝗙𝗼𝗿 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗗𝗮𝗶𝗹𝘆 𝗥𝗮𝘁𝗲 (𝗔𝗗𝗥)
 
 This section evaluates the performance of the **Sarova Hotels and Resorts** portfolio **to identify key revenue drivers** and **seasonal volatility.** By analyzing **ADR** against customer demographics and booking channels, the analysis identified a significant **"August peak"** and **a distinct performance gap between steady corporate-driven The Stanley revenue and highly seasonal Whitesands revenue.**
 
@@ -232,14 +236,17 @@ This section evaluates the performance of the **Sarova Hotels and Resorts** port
 
 
 ---
-The **RevPAR** analysis provides the most critical financial health check for Sarova Hotels and Resorts. It is the gold standard of hospitality metrics because it balances both **pricing (ADR)** and **volume (occupancy).** Interestingly, this is the only KPI where both The Stanley and Whitesands are showing "green", providing a fascinating counter-narrative to the earlier "red" findings.
+The **RevPAR** analysis provides the most critical financial health check for Sarova Hotels and Resorts. It is the gold standard of hospitality metrics because it balances both **pricing (ADR)** and **volume (occupancy).**
 
 <br>
 
-**The Profitability Frontier: RevPAR vs. Growth**
+𝗧𝗵𝗲 𝗣𝗿𝗼𝗳𝗶𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗙𝗿𝗼𝗻𝘁𝗶𝗲𝗿: 𝗥𝗲𝘃𝗣𝗔𝗥 𝘃𝘀. 𝗚𝗿𝗼𝘄𝘁𝗵
 
-<img width="1500" height="185" alt="image" src="https://github.com/user-attachments/assets/c7c1c95e-3407-4cf4-bf73-c612b5db9871" />
+<br>
 
+<img width="985" height="554" alt="image" src="https://github.com/user-attachments/assets/806defdb-e4eb-454a-b34a-7bfb152d1589" />
+
+<br>
 
 - **Whitesands (The Efficiency Leader):** With the **highest RevPAR** in the portfolio (**$22.54**), Whitesands is the premium asset. Although its growth rate (**49.16%**) is lower than The Stanley's, **it is more effective at extracting value from its inventory.** This suggests **a strong pricing power** and **a successful yield management strategy.**
   
