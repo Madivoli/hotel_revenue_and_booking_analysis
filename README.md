@@ -77,7 +77,7 @@ Our updated corporate audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱
 
 1️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗥𝗲𝘃𝗲𝗻𝘂𝗲
 
-Both properties missed their stretch goals by the same proportion (13.04%), but because The Stanley has a larger baseline volume, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗰𝗮𝘀𝗵 𝗹𝗲𝗮𝗸 ($𝟮.𝟬𝟴𝗠 𝘃𝘀 $𝟭.𝟰𝟴𝗠).
+Both properties missed their stretch goals by the same proportion (𝟭𝟯.𝟬𝟰%), but because The Stanley has a larger baseline volume, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗰𝗮𝘀𝗵 𝗹𝗲𝗮𝗸 ($𝟮.𝟬𝟴𝗠 𝘃𝘀 $𝟭.𝟰𝟴𝗠).
 
 
 <br>
@@ -109,11 +109,6 @@ Both properties missed their stretch goals by the same proportion (13.04%), but 
 <br>
 
 
-
-
-<br>
-
-
 🟩 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝘁𝗵𝗲 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗚𝗮𝗽
 
 - 𝗧𝗵𝗲 𝟮𝟬𝟭𝟳 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗔𝗻𝗼𝗺𝗮𝗹𝘆: A large portion of this "underperformance" is likely 𝗱𝘂𝗲 𝘁𝗼 𝘁𝗵𝗲 𝘁𝗿𝘂𝗻𝗰𝗮𝘁𝗲𝗱 𝗱𝗮𝘁𝗮 𝗶𝗻 𝟮𝟬𝟭𝟳, 𝘄𝗵𝗶𝗰𝗵 𝗼𝗻𝗹𝘆 𝗴𝗼𝗲𝘀 𝘂𝗽 𝘁𝗼 𝗔𝘂𝗴𝘂𝘀𝘁.
@@ -121,7 +116,16 @@ Both properties missed their stretch goals by the same proportion (13.04%), but 
 
 <br>
 
-🟩 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+🟩 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+✅ 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗩𝗼𝗹𝘂𝗺𝗲 𝗟𝗲𝗮𝗸: 
+
+- While both hotels underperformed by the same percentage (13.04%), 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘄𝗼𝘂𝗻𝗱 due to its higher revenue baseline. 𝗜𝘁 𝗵𝗼𝗹𝗱𝘀 $𝟮.𝟬𝟴𝗠 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 $𝟯.𝟱𝟲𝗠 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹.
+- From a management resource allocation perspective, 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘇𝗶𝗻𝗴 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆𝘀 𝘆𝗶𝗲𝗹𝗱 𝗺𝘂𝘀𝘁 𝘁𝗮𝗸𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝘆, as it accounts for nearly 58.4% of the entire portfolio's deficit.
+
+
+
+𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
 
 <br>
 
