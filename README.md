@@ -7,7 +7,7 @@
 
 ---
 
-**INTRODUCTION**
+𝗜𝗡𝗧𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
 
 In the hyper-competitive hospitality landscape of 2026, data is no longer just a record of the past; it is the decision layer for the future. This analysis presents a comprehensive strategic audit of the 𝗦𝗮𝗿𝗼𝘃𝗮 𝗛𝗼𝘁𝗲𝗹𝘀 𝗮𝗻𝗱 𝗥𝗲𝘀𝗼𝗿𝘁𝘀 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼, comprising the urban-centric 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 (a City Hotel) and the leisure-focused 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 (a Resort Hotel).
 
@@ -45,7 +45,7 @@ The Sarova Hotels and Resorts portfolio is currently navigating a significant pe
 <img width="998" height="563" alt="image" src="https://github.com/user-attachments/assets/3c6b2f9f-e52e-489a-85e7-4c7f279c3f6a" />
 
 
-<br>
+---
 
 
 𝗞𝗲𝘆 𝗔𝘂𝗱𝗶𝘁 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀:
@@ -65,21 +65,51 @@ To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 �
 
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦
 
+Our updated corporate audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗲𝗱 𝟭𝟱% 𝗴𝗿𝗼𝘄𝘁𝗵 𝘁𝗮𝗿𝗴𝗲𝘁, setting the annual benchmark at **$27.28M.** While total realized volume reached **$23.73M,** a 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼-𝘄𝗶𝗱𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗼𝗳 $𝟯.𝟱𝟲𝗠 𝘄𝗮𝘀 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝗱. Interestingly, both The Stanley (86.96% achievement) and Whitesands (86.96% achievement) faced identical operational yield resistance, pointing to 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗯𝗼𝗼𝗸𝗶𝗻𝗴 𝗹𝗲𝗮𝗸𝘀 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝗶𝘀𝗼𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝗰𝗮𝗹𝗶𝘇𝗲𝗱 𝗮𝘀𝘀𝗲𝘁 𝗳𝗮𝗶𝗹𝘂𝗿𝗲𝘀.
+
 <br>
 
 <img width="986" height="545" alt="image" src="https://github.com/user-attachments/assets/78f8a27d-bbb8-431d-a2c7-2431a5f2af66" />
 
-<br>
-
-
 ---
+
+
 
 1️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗥𝗲𝘃𝗲𝗻𝘂𝗲
 
-🟩 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘃𝘀. 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸
+Both properties missed their stretch goals by the same proportion (13.04%), but because The Stanley has a larger baseline volume, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗰𝗮𝘀𝗵 𝗹𝗲𝗮𝗸 ($𝟮.𝟬𝟴𝗠 𝘃𝘀 $𝟭.𝟰𝟴𝗠).
 
-- Total revenue stands at $𝟵.𝟴𝟴𝗠, which is 𝟭𝟯.𝟬𝟰% 𝗯𝗲𝗹𝗼𝘄 the strategic target of  $11.36M.
-- While $9.88M is a significant volume, the "red" status indicates that the portfolio is currently under-leveraged. Sarova Hotels and Resorts is missing the mark by roughly $1.48M.
+
+<br>
+
+🟩 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘃𝘀. 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸 (𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘃𝘀. 𝗔𝘀𝘀𝗲𝘁 𝗟𝗲𝘃𝗲𝗹)
+
+𝗧𝗵𝗲 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆:
+- Realised Revenue: $13,845,934.44
+- Annual Revenue Target: $15,922,824.61
+- Revenue Shortfall: -$2,076,890.17
+- Target Achievement Rate: 86.96%
+
+<br>
+
+𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮:
+- Realised Revenue: $9,879,463.99
+- Annual Revenue Target: $11,361,383.58
+- Revenue Shortfall: -$1,481,919.59
+- Target Achievement Rate: 86.96%
+
+<br>
+
+𝗧𝗼𝘁𝗮𝗹 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗖𝗼𝗺𝗯𝗶𝗻𝗲𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
+- Total Realised Revenue: $23,725,398.43
+- Total Annual Target: $27,284,208.19
+- Total Portfolio Shortfall: -$3,558,809.76
+- Overall Portfolio Achievement: 86.96%
+
+<br>
+
+
+
 
 <br>
 
@@ -91,7 +121,7 @@ To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 �
 
 <br>
 
-🟩 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟮.𝟵𝟲% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+🟩 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
 
 <br>
 
