@@ -65,7 +65,7 @@ To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 �
 
 𝗞𝗘𝗬 𝗣𝗘𝗥𝗙𝗢𝗥𝗠𝗔𝗡𝗖𝗘 𝗠𝗘𝗧𝗥𝗜𝗖𝗦
 
-Our updated corporate audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗲𝗱 𝟭𝟱% 𝗴𝗿𝗼𝘄𝘁𝗵 𝘁𝗮𝗿𝗴𝗲𝘁, setting the annual benchmark at **$27.28M.** While total realized volume reached **$23.73M,** a 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼-𝘄𝗶𝗱𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗼𝗳 $𝟯.𝟱𝟲𝗠 𝘄𝗮𝘀 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝗱. Interestingly, both The Stanley (86.96% achievement) and Whitesands (86.96% achievement) faced identical operational yield resistance, pointing to 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗯𝗼𝗼𝗸𝗶𝗻𝗴 𝗹𝗲𝗮𝗸𝘀 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝗶𝘀𝗼𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝗰𝗮𝗹𝗶𝘇𝗲𝗱 𝗮𝘀𝘀𝗲𝘁 𝗳𝗮𝗶𝗹𝘂𝗿𝗲𝘀.
+The updated audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝗶𝘇𝗲𝗱 𝟭𝟱% 𝗴𝗿𝗼𝘄𝘁𝗵 𝘁𝗮𝗿𝗴𝗲𝘁, setting the annual benchmark at **$27.28M.** While total realized volume reached **$23.73M,** a 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼-𝘄𝗶𝗱𝗲 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹 𝗼𝗳 $𝟯.𝟱𝟲𝗠 𝘄𝗮𝘀 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝗶𝗲𝗱. Interestingly, both The Stanley (86.96% achievement) and Whitesands (86.96% achievement) faced identical operational yield resistance, pointing to 𝘀𝘆𝘀𝘁𝗲𝗺𝗶𝗰 𝗯𝗼𝗼𝗸𝗶𝗻𝗴 𝗹𝗲𝗮𝗸𝘀 𝗿𝗮𝘁𝗵𝗲𝗿 𝘁𝗵𝗮𝗻 𝗶𝘀𝗼𝗹𝗮𝘁𝗲𝗱 𝗹𝗼𝗰𝗮𝗹𝗶𝘇𝗲𝗱 𝗮𝘀𝘀𝗲𝘁 𝗳𝗮𝗶𝗹𝘂𝗿𝗲𝘀.
 
 <br>
 
@@ -73,11 +73,9 @@ Our updated corporate audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱
 
 ---
 
-
-
 1️⃣ 𝗧𝗼𝘁𝗮𝗹 𝗥𝗲𝘃𝗲𝗻𝘂𝗲
 
-Both properties missed their stretch goals by the same proportion (𝟭𝟯.𝟬𝟰%), but because The Stanley has a larger baseline volume, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗰𝗮𝘀𝗵 𝗹𝗲𝗮𝗸 ($𝟮.𝟬𝟴𝗠 𝘃𝘀 $𝟭.𝟰𝟴𝗠).
+Both properties missed their stretch goals by the same proportion (𝟭𝟯.𝟬𝟰%), but because The Stanley has a larger baseline volume, 𝗶𝘁 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲 𝗰𝗮𝘀𝗵 𝗹𝗲𝗮𝗸 ($2.08M vs. $1.48M)**
 
 
 <br>
@@ -118,18 +116,35 @@ Both properties missed their stretch goals by the same proportion (𝟭𝟯.𝟬
 
 🟩 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
-✅ 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗩𝗼𝗹𝘂𝗺𝗲 𝗟𝗲𝗮𝗸: 
+☑️ 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗩𝗼𝗹𝘂𝗺𝗲 𝗟𝗲𝗮𝗸: 
 
-- While both hotels underperformed by the same percentage (13.04%), 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘄𝗼𝘂𝗻𝗱 due to its higher revenue baseline. 𝗜𝘁 𝗵𝗼𝗹𝗱𝘀 $𝟮.𝟬𝟴𝗠 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗼𝘁𝗮𝗹 $𝟯.𝟱𝟲𝗠 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹.
-- From a management resource allocation perspective, 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘇𝗶𝗻𝗴 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆𝘀 𝘆𝗶𝗲𝗹𝗱 𝗺𝘂𝘀𝘁 𝘁𝗮𝗸𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝘆, as it accounts for nearly 58.4% of the entire portfolio's deficit.
-
-
-
-𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+- While both hotels underperformed by the same percentage (13.04%), 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁𝘀 𝘁𝗵𝗲 𝗹𝗮𝗿𝗴𝗲𝗿 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘄𝗼𝘂𝗻𝗱 due to its higher revenue baseline. **It holds $2.08M of the total $3.56M portfolio shortfall.**
+- From a management resource allocation perspective, 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘇𝗶𝗻𝗴 𝗧𝗵𝗲 𝗦𝘁𝗮𝗻𝗹𝗲𝘆𝘀 𝘆𝗶𝗲𝗹𝗱 𝗺𝘂𝘀𝘁 𝘁𝗮𝗸𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝘆, as it accounts for nearly 𝟱𝟴.𝟰% 𝗼𝗳 𝘁𝗵𝗲 𝗲𝗻𝘁𝗶𝗿𝗲 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼'𝘀 𝗱𝗲𝗳𝗶𝗰𝗶𝘁.
 
 <br>
 
-𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗡𝗼𝘁𝗲: 2017 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘴 𝘢𝘯 8-𝘮𝘰𝘯𝘵𝘩 𝘱𝘦𝘳𝘪𝘰𝘥. 𝘞𝘩𝘦𝘯 𝘢𝘯𝘯𝘶𝘢𝘭𝘪𝘻𝘦𝘥, 𝘣𝘰𝘵𝘩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝘢𝘯𝘥 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 𝘸𝘦𝘳𝘦 𝘰𝘯 𝘵𝘳𝘢𝘤𝘬 𝘵𝘰 𝘮𝘢𝘵𝘤𝘩 𝘰𝘳 𝘦𝘹𝘤𝘦𝘦𝘥 2016 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘭𝘦𝘷𝘦𝘭𝘴.
+☑️ 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗙𝗮𝗰𝗲𝘀 𝗛𝗶𝗴𝗵 𝗠𝗮𝗿𝗴𝗶𝗻 𝗘𝗿𝗼𝘀𝗶𝗼𝗻:
+
+- Missing a stretch target by $1.48M at a premium resort like Whitesands implies that 𝗼𝗰𝗰𝘂𝗽𝗮𝗻𝗰𝘆 𝘃𝗼𝗹𝘂𝗺𝗲 𝗶𝘀 𝗹𝗶𝗸𝗲𝗹𝘆 𝗯𝗲𝗶𝗻𝗴 𝘀𝘂𝘀𝘁𝗮𝗶𝗻𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗮𝗴𝗴𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗱𝗶𝘀𝗰𝗼𝘂𝗻𝘁𝗶𝗻𝗴, 𝗹𝗼𝘄-𝘆𝗶𝗲𝗹𝗱 𝘁𝗼𝘂𝗿-𝗼𝗽𝗲𝗿𝗮𝘁𝗼𝗿 𝗽𝗮𝗰𝗸𝗮𝗴𝗲𝘀, or 𝘂𝗻𝗺𝗼𝗻𝗲𝘁𝗶𝘇𝗲𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
+- The resort has the demand, but 𝗶𝘁 𝗶𝘀 𝗳𝗮𝗶𝗹𝗶𝗻𝗴 𝘁𝗼 𝗲𝘅𝘁𝗿𝗮𝗰𝘁 𝘁𝗵𝗲 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝘆𝗶𝗲𝗹𝗱 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝘁𝗼 𝗵𝗶𝘁 𝘁𝗵𝗲 𝗻𝗲𝘄 $𝟭𝟭.𝟯𝟲𝗠 𝗯𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸.
+
+<br>
+
+🟩 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+With a collective $𝟯.𝟱𝟲𝗠 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹, management can no longer rely on volume alone. 𝗧𝗵𝗲𝘆 𝗺𝘂𝘀𝘁 𝗽𝗶𝘃𝗼𝘁 𝘁𝗼 𝘆𝗶𝗲𝗹𝗱 𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀:
+
+
+
+
+To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+
+<br>
+
+𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 
+
+
+𝗡𝗼𝘁𝗲: 2017 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘴 𝘢𝘯 8-𝘮𝘰𝘯𝘵𝘩 𝘱𝘦𝘳𝘪𝘰𝘥. 𝘞𝘩𝘦𝘯 𝘢𝘯𝘯𝘶𝘢𝘭𝘪𝘻𝘦𝘥, 𝘣𝘰𝘵𝘩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝘢𝘯𝘥 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 𝘸𝘦𝘳𝘦 𝘰𝘯 𝘵𝘳𝘢𝘤𝘬 𝘵𝘰 𝘮𝘢𝘵𝘤𝘩 𝘰𝘳 𝘦𝘹𝘤𝘦𝘦𝘥 2016 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘭𝘦𝘷𝘦𝘭𝘴.
 
 ---
 
