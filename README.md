@@ -69,7 +69,14 @@ The updated audit across the portfolio shows 𝗮 𝘀𝘁𝗮𝗻𝗱𝗮𝗿�
 
 <br>
 
+𝗡𝗼𝘁𝗲: 2017 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘴 𝘢𝘯 8-𝘮𝘰𝘯𝘵𝘩 𝘱𝘦𝘳𝘪𝘰𝘥. 𝘞𝘩𝘦𝘯 𝘢𝘯𝘯𝘶𝘢𝘭𝘪𝘻𝘦𝘥, 𝘣𝘰𝘵𝘩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝘢𝘯𝘥 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 𝘸𝘦𝘳𝘦 𝘰𝘯 𝘵𝘳𝘢𝘤𝘬 𝘵𝘰 𝘮𝘢𝘵𝘤𝘩 𝘰𝘳 𝘦𝘹𝘤𝘦𝘦𝘥 2016 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘭𝘦𝘷𝘦𝘭𝘴.
+
+<br>
+
 <img width="986" height="545" alt="image" src="https://github.com/user-attachments/assets/78f8a27d-bbb8-431d-a2c7-2431a5f2af66" />
+
+
+
 
 ---
 
@@ -134,17 +141,21 @@ Both properties missed their stretch goals by the same proportion (𝟭𝟯.𝟬
 
 With a collective $𝟯.𝟱𝟲𝗠 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝘀𝗵𝗼𝗿𝘁𝗳𝗮𝗹𝗹, management can no longer rely on volume alone. 𝗧𝗵𝗲𝘆 𝗺𝘂𝘀𝘁 𝗽𝗶𝘃𝗼𝘁 𝘁𝗼 𝘆𝗶𝗲𝗹𝗱 𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀:
 
+<br>
 
+☑️	𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗡𝗼𝗻-𝗥𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗧𝗶𝗲𝗿𝘀
 
-
-To bridge the $𝟭.𝟰𝟴𝗠 𝗴𝗮𝗽, Sarova Hotels and Resorts should 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝗺𝗮𝗿𝗴𝗶𝗻 𝗽𝗿𝗲𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 to 𝘃𝗼𝗹𝘂𝗺𝗲 𝗰𝗮𝗽𝘁𝘂𝗿𝗲, specifically targeting a 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗵𝗲 𝟮𝟳.𝟬𝟭% 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 and converting 𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 to regain the $3.9M 'lost revenue'.
+- 𝗧𝗵𝗲 𝗔𝗰𝘁𝗶𝗼𝗻: Introduce 𝗮 𝗺𝘂𝗹𝘁𝗶-𝘁𝗶𝗲𝗿𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗹 where the lowest rate tier requires 𝗮 𝗳𝘂𝗹𝗹, 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝘂𝗽𝗳𝗿𝗼𝗻𝘁 𝗽𝗮𝘆𝗺𝗲𝗻𝘁, while flexible/cancellable rates are priced at 𝗮 𝟭𝟱% 𝘁𝗼 𝟮𝟬% 𝗽𝗿𝗲𝗺𝗶𝘂𝗺.
+- 𝗧𝗵𝗲 𝗚𝗼𝗮𝗹: To 𝗰𝗼𝗺𝗯𝗮𝘁 𝘁𝗵𝗲 𝘃𝗼𝗹𝗮𝘁𝗶𝗹𝗶𝘁𝘆 𝗼𝗳 "𝗦𝗼𝗳𝘁 𝗕𝗼𝗼𝗸𝗶𝗻𝗴𝘀" - 𝘳𝘦𝘴𝘦𝘳𝘷𝘢𝘵𝘪𝘰𝘯𝘴 𝘵𝘩𝘢𝘵 𝘩𝘰𝘭𝘥 𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳𝘺 𝘣𝘶𝘵 𝘤𝘢𝘯𝘤𝘦𝘭 𝘭𝘢𝘵𝘦. Locking in committed capital early 𝘀𝘁𝗮𝗯𝗶𝗹𝗶𝘇𝗲𝘀 𝗰𝗮𝘀𝗵 𝗳𝗹𝗼𝘄 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗲𝘃𝗲𝗻𝘁𝘀 𝗹𝗮𝘁𝗲-𝘀𝘁𝗮𝗴𝗲 𝗶𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗱𝘂𝗺𝗽𝗶𝗻𝗴.
 
 <br>
 
-𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 
 
+☑️ 𝗧𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻 𝗳𝗿𝗼𝗺 "𝗗𝗲𝗳𝗮𝘂𝗹𝘁 𝗨𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝘁𝗼 𝗔𝗰𝘁𝗶𝘃𝗲 𝗠𝗼𝗻𝗲𝘁𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
-𝗡𝗼𝘁𝗲: 2017 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘳𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘴 𝘢𝘯 8-𝘮𝘰𝘯𝘵𝘩 𝘱𝘦𝘳𝘪𝘰𝘥. 𝘞𝘩𝘦𝘯 𝘢𝘯𝘯𝘶𝘢𝘭𝘪𝘻𝘦𝘥, 𝘣𝘰𝘵𝘩 𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆 𝘢𝘯𝘥 𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮 𝘸𝘦𝘳𝘦 𝘰𝘯 𝘵𝘳𝘢𝘤𝘬 𝘵𝘰 𝘮𝘢𝘵𝘤𝘩 𝘰𝘳 𝘦𝘹𝘤𝘦𝘦𝘥 2016 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘭𝘦𝘷𝘦𝘭𝘴.
+- 𝗧𝗵𝗲 𝗔𝗰𝘁𝗶𝗼𝗻: Management should stop the practice of 𝗴𝗶𝘃𝗶𝗻𝗴 𝗮𝘄𝗮𝘆 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝘀𝘂𝗶𝘁𝗲𝘀 𝗼𝗿 𝗼𝗰𝗲𝗮𝗻-𝗳𝗿𝗼𝗻𝘁 𝗿𝗼𝗼𝗺𝘀 𝗳𝗼𝗿 𝗳𝗿𝗲𝗲 𝘄𝗵𝗲𝗻 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱 𝗿𝗼𝗼𝗺𝘀 𝗮𝗿𝗲 𝗼𝘃𝗲𝗿𝗯𝗼𝗼𝗸𝗲𝗱. Implement 𝗮𝗻 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 "𝗣𝗮𝗶𝗱 𝗦𝘁𝗮𝗻𝗱𝗯𝘆 𝗨𝗽𝗴𝗿𝗮𝗱𝗲" 𝗲𝗻𝗴𝗶𝗻𝗲 that emails guests 48 hours before arrival, offering premium inventory at a heavily discounted – but paid - upcharge (e.g., $30–$50/night upgrade fee).
+- 𝗧𝗵𝗲 𝗚𝗼𝗮𝗹: To 𝗽𝗿𝗼𝘁𝗲𝗰𝘁 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗼𝗳 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝗮𝘃𝗲𝗿𝗮𝗴𝗲 𝗱𝗮𝗶𝗹𝘆 𝗿𝗮𝘁𝗲𝘀 (𝗔𝗗𝗥) at Whitesands and turns an operational logistical headache into a high-margin revenue stream, reclaiming a projected portion of that $𝟭.𝟰𝟴𝗠 𝗿𝗲𝘀𝗼𝗿𝘁 𝗴𝗮𝗽.
+
 
 ---
 
