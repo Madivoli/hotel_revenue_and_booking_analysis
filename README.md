@@ -37,7 +37,8 @@ This analysis moves beyond descriptive statistics to provide a proactive audit o
 
 𝗧𝗵𝗲 "𝗖𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗚𝗮𝗽" 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲
 
-The Sarova Hotels and Resorts portfolio is currently navigating a significant performance paradox. While brand demand is exceptionally high — evidenced by 𝗮 𝗺𝗮𝗿𝗸𝗲𝘁-𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗼𝗳 𝟭𝟬𝟱 𝗱𝗮𝘆𝘀 — 𝘁𝗵𝗶𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗯𝗲𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹𝗶𝘀𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲. The portfolio currently faces a $1.48M revenue shortfall against the annual target of $11.36M, primarily driven by 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 "𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗴𝗮𝗽" and 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀..
+- The Sarova Hotels and Resorts portfolio is currently navigating a significant performance paradox. While brand demand is exceptionally high — evidenced by 𝗮 𝗺𝗮𝗿𝗸𝗲𝘁-𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗲𝗮𝗱 𝘁𝗶𝗺𝗲 𝗼𝗳 𝟭𝟬𝟱 𝗱𝗮𝘆𝘀 — 𝘁𝗵𝗶𝘀 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝘀 𝗻𝗼𝘁 𝗯𝗲𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝗿𝗲𝗮𝗹𝗶𝘀𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲.
+- The portfolio currently faces a $1.48M revenue shortfall against the annual target of $11.36M, primarily driven by 𝗮 𝗰𝗿𝗶𝘁𝗶𝗰𝗮𝗹 "𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁 𝗴𝗮𝗽" and 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀..
 
 <br>
 
@@ -50,7 +51,7 @@ The Sarova Hotels and Resorts portfolio is currently navigating a significant pe
 
 𝗞𝗲𝘆 𝗔𝘂𝗱𝗶𝘁 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀:
 
-- 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗟𝗲𝗮𝗸𝗮𝗴𝗲: A portfolio-wide 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟯𝟲.𝟵𝟴% (peaking at 41.79% for Sarova Stanley) and a 𝟭𝟰.𝟱𝟳% 𝗿𝗼𝗼𝗺 𝗺𝗶𝘀𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲 are 𝘁𝗵𝗲 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝗱𝗿𝗶𝘃𝗲𝗿𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝗲𝗳𝗶𝗰𝗶𝘁.
+- 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗟𝗲𝗮𝗸𝗮𝗴𝗲: A portfolio-wide 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗿𝗮𝘁𝗲 𝗼𝗳 𝟮𝟳.𝟬𝟭% (peaking at 41.79% for Sarova Stanley) and a 𝟭𝟰.𝟱𝟳% 𝗿𝗼𝗼𝗺 𝗺𝗶𝘀𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲 are 𝘁𝗵𝗲 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝗱𝗿𝗶𝘃𝗲𝗿𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝗲𝗳𝗶𝗰𝗶𝘁.
 - 𝗜𝗻𝘃𝗲𝗻𝘁𝗼𝗿𝘆 𝗨𝗻𝗱𝗲𝗿-𝘂𝘁𝗶𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻: Despite high booking volumes, actual occupancy rates remain stagnant at 𝟮𝟬.𝟯𝟳% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗦𝘁𝗮𝗻𝗹𝗲𝘆) and 𝟭𝟴.𝟯𝟰% (𝗦𝗮𝗿𝗼𝘃𝗮 𝗪𝗵𝗶𝘁𝗲𝘀𝗮𝗻𝗱𝘀 𝗕𝗲𝗮𝗰𝗵 𝗥𝗲𝘀𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗽𝗮), signalling 𝗵𝗶𝗴𝗵 𝗳𝗶𝘅𝗲𝗱-𝗰𝗼𝘀𝘁 𝗲𝘅𝗽𝗼𝘀𝘂𝗿𝗲.
 - 𝗣𝗿𝗶𝗰𝗶𝗻𝗴 𝗜𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻: Sarova Whitesands Beach Resort and Spa Hotel is currently undervalued, 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗔𝗗𝗥 𝗼𝗳 $𝟴𝟭.𝟵𝟮, trailing its strategic target by 𝗼𝘃𝗲𝗿 𝟭𝟯%.
 
@@ -58,7 +59,8 @@ The Sarova Hotels and Resorts portfolio is currently navigating a significant pe
 
 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗼𝗮𝗱𝗺𝗮𝗽:
 
-To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝘃𝗼𝗹𝘂𝗺𝗲-𝗰𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗼 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴. By 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗻𝗴 "𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 during the booking process and implementing a 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗲𝗮𝗿𝗹𝘆-𝗯𝗶𝗿𝗱 𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝗲𝘀, the portfolio can protect its 𝟭𝟬𝟬-𝗱𝗮𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗵𝗼𝗿𝗶𝘇𝗼𝗻 and 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 $𝟯.𝟵𝗠 𝗶𝗻 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹𝗹𝘆 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝘂𝗲 𝘁𝗼 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
+- To stabilise growth, Madivoli Analytics recommends 𝗮 𝘀𝗵𝗶𝗳𝘁 𝗳𝗿𝗼𝗺 𝘃𝗼𝗹𝘂𝗺𝗲-𝗰𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗼 𝗰𝗼𝗺𝗺𝗶𝘁𝗺𝗲𝗻𝘁-𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗶𝗰𝗶𝗻𝗴.
+- By 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝗶𝗻𝗴 "𝗳𝗿𝗲𝗲 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀" 𝗶𝗻𝘁𝗼 𝗽𝗮𝗶𝗱 𝘂𝗽𝘀𝗲𝗹𝗹𝘀 during the booking process and implementing a 𝗻𝗼𝗻-𝗿𝗲𝗳𝘂𝗻𝗱𝗮𝗯𝗹𝗲 𝗲𝗮𝗿𝗹𝘆-𝗯𝗶𝗿𝗱 𝘁𝗶𝗲𝗿𝘀 𝗮𝗻𝗱 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝗲𝘀, the portfolio can protect its 𝟭𝟬𝟬-𝗱𝗮𝘆 𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗵𝗼𝗿𝗶𝘇𝗼𝗻 and 𝗿𝗲𝗰𝗹𝗮𝗶𝗺 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 $𝟯.𝟵𝗠 𝗶𝗻 𝗽𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹𝗹𝘆 𝗹𝗼𝘀𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗱𝘂𝗲 𝘁𝗼 𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗼𝗼𝗺 𝘂𝗽𝗴𝗿𝗮𝗱𝗲𝘀.
 
 ---
 ---
